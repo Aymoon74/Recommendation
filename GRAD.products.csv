@@ -1,0 +1,801 @@
+product_id,brand,name,price,rate,categories
+683dc98cc029c78e3af4fb0d,Sony,Sony Ultra-Portable Bluetooth Speaker,69.99,1.5,Electronics
+683dc98cc029c78e3af4fb10,Sony,Sony SRS-XB41 Portable Wireless Bluetooth Speaker - Black - SRSXB41/B (Certified Refurbished),249.99,9.1,Portable
+683dc98cc029c78e3af4fb11,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",339.94,2,Electronics
+683dc98cc029c78e3af4fb12,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",173.49,5.1,Auto
+683dc98cc029c78e3af4fb13,Sonic Alert,Sonic Alert Sb300ss Sonic Boom Alarm Clock White,37.99,7.4,Electronics
+683dc98cc029c78e3af4fb14,Klipsch,"Klipsch - Reference Soundbar with 10 Wireless Subwoofer - Black""",799.99,8.6,Electronics
+683dc98cc029c78e3af4fb15,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",47.99,7.3,Auto
+683dc98cc029c78e3af4fb16,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,68.99,2.4,Auto
+683dc98cc029c78e3af4fb17,Samsung,Samsung - 960 EVO 250GB Internal PCI Express 3.0 x4 (NVMe) Solid State Drive for Laptops,117.6,7.5,Computers
+683dc98cc029c78e3af4fb18,Kicker,"KICKER - KM 6.5 2-Way Coaxial Marine Speaker with Injection-Molded Polypropylene Cone (Pair) - Charcoal""",165.99,4.7,Sports
+683dc98cc029c78e3af4fb19,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",56.48,4.2,Auto
+683dc98cc029c78e3af4fb1a,Power Acoustik,"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",171.99,8.2,Auto
+683dc98cc029c78e3af4fb1b,Tp-Link,TP-Link Archer T9E AC1900 Wireless WiFi PCIe network Adapter Card for PC,67.15,2.1,Computers
+683dc98cc029c78e3af4fb1c,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,109.99,3.2,Computers
+683dc98cc029c78e3af4fb1d,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",129.99,3.2,Auto
+683dc98cc029c78e3af4fb1e,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,155,6.7,Auto
+683dc98cc029c78e3af4fb1f,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,22.22,1.8,Headphones
+683dc98cc029c78e3af4fb20,Kanto,"Kanto Living 8 Powered Subwoofer -Gloss White""",279.99,6.5,Electronics
+683dc98cc029c78e3af4fb21,Belkin,"Ultimate Keyboard Case for iPad 2nd, 3rd, 4th Gen",74.99,7.9,Computers
+683dc98cc029c78e3af4fb22,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,37.2,5.4,Auto
+683dc98cc029c78e3af4fb23,Zoom,Zoom - H1 Handy Recorder - Black,79.99,8.3,Musical
+683dc98cc029c78e3af4fb24,Sennheiser,Sennheiser - Earbud Headphones - Black,559.99,7.4,Sennheiser
+683dc98cc029c78e3af4fb25,Zoom,Zoom - H1 Handy Recorder - Black,159.95,6.8,Musical
+683dc98cc029c78e3af4fb26,Sony,Sony LBT-GPX555 Mini-System with Bluetooth and NFC,498,5.1,Electronics
+683dc98cc029c78e3af4fb27,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,298.99,6.1,Electronics
+683dc98cc029c78e3af4fb28,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,91.99,9.1,Electronics
+683dc98cc029c78e3af4fb29,Sennheiser,SENNHEISER HD 558 Over Ear Headphones HD558 - AUTHORIZED DEALER,89.99,8.3,Consumer
+683dc98cc029c78e3af4fb2b,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),71.99,8.9,On
+683dc98cc029c78e3af4fb2c,Monster,"Monster SuperStar BackFloat High-Definition Bluetooth Speaker, Neon Green",118.8,9.4,Electronics
+683dc98cc029c78e3af4fb2d,Zoom,Zoom - H1 Handy Recorder - Black,214.95,8.8,Musical
+683dc98cc029c78e3af4fb2f,Zmodo,Details About Zmodo Greet Wifi Video Doorbell W/ Zmodo Beam Smart Home Hub And Wifi Extender,99.99,0.7,Doorbells
+683dc98cc029c78e3af4fb30,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,149.95,4.1,Computers
+683dc98cc029c78e3af4fb31,Pioneer,Pioneer Avh-x3800bhs 6.2 Double-DIN In-Dash DVD Receiver with Bluetooth,324.97,2.7,Auto
+683dc98cc029c78e3af4fb33,Olympus,M.Zuiko Digital ED 40-150mm f/4-5.6 R Lens (Silver),99,7.9,Photography
+683dc98cc029c78e3af4fb34,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,159.09,9.8,Electronics
+683dc98cc029c78e3af4fb35,Logitech,Logitech Circle Black Portable Wifi Video Monitoring Camera Webcam,166.99,3.9,Computers/Tablets
+683dc98cc029c78e3af4fb36,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,299.95,5.3,Auto
+683dc98cc029c78e3af4fb37,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),79.88,5.2,On
+683dc98cc029c78e3af4fb38,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",70.97,4,Electronics
+683dc98cc029c78e3af4fb39,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,121.99,10,Electronics
+683dc98cc029c78e3af4fb3a,ZTE,ZTE Warp Elite No Contract Phone - Retail Packaging - Boost,89,9.8,No-Contract
+683dc98cc029c78e3af4fb3c,JBL,"JBL - 6-1/2 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",65.99,5.9,Car
+683dc98cc029c78e3af4fb3d,Apple,128GB iPod touch (Space Gray) (6th Generation),399.99,7.4,MP3
+683dc98cc029c78e3af4fb3f,CLARITY-TELECOM,Clarity - Super-Loud Phone Ringer - White,31.99,9.5,Office
+683dc98cc029c78e3af4fb40,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,38.95,8.9,Auto
+683dc98cc029c78e3af4fb41,Corsair,CORSAIR - VOID PRO RGB Wireless Dolby 7.1-Channel Surround Sound Gaming Heads...,108.77,5.2,Office
+683dc98cc029c78e3af4fb42,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",173.74,2.6,Auto
+683dc98cc029c78e3af4fb43,Yamaha,"Yamaha - 2.1-Channel Soundbar System with 6-1/2 Wireless Subwoofer and 200-Watt Digital Amplifier - Black""",299.95,1.7,Electronics
+683dc98cc029c78e3af4fb45,Kenwood,Kenwood KDC-HD262U CD Receiver with Built-in HD Radio,78.99,4.2,Electronics
+683dc98cc029c78e3af4fb46,Isimple,iSimple - TranzIt Bluetooth Factory Radio Module - Black,70.25,8,Consumer
+683dc98cc029c78e3af4fb47,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,299.94,2.1,Auto
+683dc98cc029c78e3af4fb48,Power Acoustik,"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",144.37,5.6,Auto
+683dc98cc029c78e3af4fb49,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,167.99,7.8,Computers
+683dc98cc029c78e3af4fb4a,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,479,2.9,Office
+683dc98cc029c78e3af4fb4b,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",384.96,4.8,Electronics
+683dc98cc029c78e3af4fb4c,Kenwood,Kenwood KDC-HD262U CD Receiver with Built-in HD Radio,66.67,5.5,Electronics
+683dc98cc029c78e3af4fb4e,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",65.06,5,Electronics
+683dc98cc029c78e3af4fb4f,WD,WD - Se 2TB Internal Serial ATA Hard Drive for Desktops (OEM/Bare Drive),127.99,4.5,Computers
+683dc98cc029c78e3af4fb50,Sony,GTK-XB90 Bluetooth Speaker,349.99,2.2,Wireless
+683dc98cc029c78e3af4fb51,House of Marley,House of Marley,134.99,9.6,Portable
+683dc98cc029c78e3af4fb52,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,1498,7.1,Electronics
+683dc98cc029c78e3af4fb53,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),70.99,8.2,On
+683dc98cc029c78e3af4fb54,Samsung,Samsung - 850 PRO 512GB Internal SATA III Solid State Drive for Laptops,249.99,0.6,Internal
+683dc98cc029c78e3af4fb55,Cobra Electronics,Cobra - Radar and Laser Detector,118.75,7.7,Auto
+683dc98cc029c78e3af4fb57,VINPOWER DIGITAL DIRECTSHIP,ECON-S3T-DVD-BK 1-DVDROM TO 3-DVD+/-RW DL 24X TOWER STANDALONE,244.18,3.9,Electronics
+683dc98cc029c78e3af4fb58,Panasonic,Panasonic - Lumix G85 Mirrorless Camera with 12-60mm Lens - Black,997.99,7.5,Photography
+683dc98cc029c78e3af4fb59,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",211.5,4,Office
+683dc98cc029c78e3af4fb5a,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,17.79,4.2,Headphones
+683dc98cc029c78e3af4fb5b,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,86.99,1.3,Computers
+683dc98cc029c78e3af4fb5c,Sabrent,Sabrent Sp-byta Speaker System - 2 W Rms - Wireless Speaker[s] - Usb - Ipod Supported (sp-byta),38.99,2.6,Electronics
+683dc98cc029c78e3af4fb5d,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",78.28,5.6,Auto
+683dc98cc029c78e3af4fb5f,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",317.99,1,Electronics
+683dc98cc029c78e3af4fb61,Sony,Sony LBT-GPX555 Mini-System with Bluetooth and NFC,399.99,0.6,Electronics
+683dc98cc029c78e3af4fb62,Jabra,Jabra Sport Coach Special Edition Sport Headset,119.99,3.3,Electronics
+683dc98cc029c78e3af4fb63,Zmodo,Details About Zmodo Greet Wifi Video Doorbell W/ Zmodo Beam Smart Home Hub And Wifi Extender,83.95,8.4,Doorbells
+683dc98cc029c78e3af4fb64,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",213.99,6.3,Office
+683dc98cc029c78e3af4fb65,Power Acoustik,"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",155.98,0.5,Auto
+683dc98cc029c78e3af4fb66,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,599.97,8.2,Auto
+683dc98cc029c78e3af4fb67,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,48.99,6.2,Auto
+683dc98cc029c78e3af4fb68,mophie,mophie powerstation Plus Mini External Battery with Built in Cables for Smartphones and Tablets (4,56.99,7.2,Mobile
+683dc98cc029c78e3af4fb69,BIC America,"Bic America Rtr1530 15 Rtr Series 3-way Tower Speaker""",225,7.3,Electronics
+683dc98cc029c78e3af4fb6b,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,61.99,8.8,Auto
+683dc98cc029c78e3af4fb6c,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,269.99,4.6,Electronics
+683dc98cc029c78e3af4fb6d,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",489.99,8.1,Electronics
+683dc98cc029c78e3af4fb6e,Pyle Pro,PDWM1904 Single-Channel Wireless System with Headset Lavalier Microphones,82.51,5.3,Wireless
+683dc98cc029c78e3af4fb6f,Yamaha,R-S202 Stereo Receiver with Bluetooth (Black),149.95,8.1,Recievers
+683dc98cc029c78e3af4fb70,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",198.99,0.7,Office
+683dc98cc029c78e3af4fb71,Apple,128GB iPod touch (Gold) (6th Generation),289.95,9.7,MP3
+683dc98cc029c78e3af4fb72,Pioneer,Pioneer - 8x External USB 3.0 Quad-Layer Blu-ray Disc DL DVD±RW/CD-RW Drive - Silver,74.99,5.6,Computers
+683dc98cc029c78e3af4fb73,Zoom,Zoom - H1 Handy Recorder - Black,79.95,0.7,Musical
+683dc98cc029c78e3af4fb74,Logitech,Logitech G433 7.1 Wired Gaming Headset with DTS Headphone: X 7.1 Surround for PC,99.99,4.1,Computers
+683dc98cc029c78e3af4fb75,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),83.95,6.1,Computers
+683dc98cc029c78e3af4fb76,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),71.58,0.2,Computers
+683dc98cc029c78e3af4fb77,Sound Design,iHome iBN43BC Bluetooth Stereo Dual Alarm FM Clock Radio and Speakerphone with USB Charging,54.99,9.5,Portable
+683dc98cc029c78e3af4fb78,Pyle Pro,PDWM1904 Single-Channel Wireless System with Headset Lavalier Microphones,81.99,5.5,Wireless
+683dc98cc029c78e3af4fb79,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,224.99,9.9,Auto
+683dc98cc029c78e3af4fb7a,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,159.99,3.6,Electronics
+683dc98cc029c78e3af4fb7b,Kicker,"Kicker DSC44 4 D-Series 2-Way Car Speakers with 1/2"" Tweeters""",19.99,2.4,Electronics
+683dc98cc029c78e3af4fb7c,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,159.99,2.9,Electronics
+683dc98cc029c78e3af4fb7d,Yamaha,AVENTAGE RX-A1070 7.2-Channel Network A/V Receiver,1079.99,1.6,TV
+683dc98cc029c78e3af4fb7e,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",220.99,9.6,Office
+683dc98cc029c78e3af4fb7f,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",77.77,8.8,Auto
+683dc98cc029c78e3af4fb80,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,27.65,5.8,Auto
+683dc98cc029c78e3af4fb81,Elite Screens,Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,499.88,5.2,Office
+683dc98cc029c78e3af4fb82,Zmodo,Details About Zmodo Hd Wifi Home Security Camera Twoway Audio Motion Detection Cloud Service,38,5.4,Wireless
+683dc98cc029c78e3af4fb83,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",169.99,8.5,Electronics
+683dc98cc029c78e3af4fb85,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),73.63,5.7,Computers
+683dc98cc029c78e3af4fb86,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,83.59,3.4,Electronics
+683dc98cc029c78e3af4fb87,Tivo,TiVo Mini Receiver,100,0.5,Consumer
+683dc98cc029c78e3af4fb88,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,137.99,9.3,Electronics
+683dc98cc029c78e3af4fb8a,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",19.99,3.9,Electronics
+683dc98cc029c78e3af4fb8b,XFX,XFX AMD Radeon RX 580 8GB GDDR5 PCI Express 3.0 Graphics Card,379.99,9.4,Electronics
+683dc98cc029c78e3af4fb8c,Joby,JOBY GorillaPod 3K Kit. Compact Tripod 3K Stand and Ballhead 3K for Compact Mirrorless Cameras or devices up to 3K (6.6lbs). Black/Charcoal.,63.95,6.6,Tripod
+683dc98cc029c78e3af4fb8d,Olympus,M.Zuiko Digital ED 40-150mm f/4-5.6 R Lens (Silver),99.99,0.2,Photography
+683dc98cc029c78e3af4fb8e,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",201.99,6,Office
+683dc98cc029c78e3af4fb8f,MartinLogan,"MartinLogan Motion 6 Center Channel Speaker (Piano Black, each)",219.99,5.4,Electronics
+683dc98cc029c78e3af4fb90,Sony,Sony Mini Digital Video Cassettes - DVC - 1 Hour,19.99,1.3,Electronics
+683dc98cc029c78e3af4fb91,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,90.99,5,Computers
+683dc98cc029c78e3af4fb92,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,248,6,Electronics
+683dc98cc029c78e3af4fb93,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,569.99,9.4,Electronics
+683dc98cc029c78e3af4fb94,Elite Screens,Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,648.89,6.2,Office
+683dc98cc029c78e3af4fb95,Yamaha,"Yamaha - 2.1-Channel Soundbar System with 6-1/2 Wireless Subwoofer and 200-Watt Digital Amplifier - Black""",279.99,1.4,Electronics
+683dc98cc029c78e3af4fb96,Monster,"Monster SuperStar BackFloat High-Definition Bluetooth Speaker, Neon Green",118.8,6.2,Electronics
+683dc98cc029c78e3af4fb97,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,489,6.3,Auto
+683dc98cc029c78e3af4fb98,Apple,128GB iPod touch (Space Gray) (6th Generation),279.99,5.2,MP3
+683dc98cc029c78e3af4fb99,House of Marley,House of Marley,133.99,9.9,Portable
+683dc98cc029c78e3af4fb9b,Corsair,CORSAIR - VENGEANCE RGB Series 32GB (4PK 8GB) 3.466GHz DDR4 Desktop Memory with RGB Lighting - Black,632.99,0.2,Electronics
+683dc98cc029c78e3af4fb9e,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",79.23,0.7,Electronics
+683dc98cc029c78e3af4fb9f,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",72.99,7.8,Auto
+683dc98cc029c78e3af4fba0,Pyle Pro,PDWM1904 Single-Channel Wireless System with Headset Lavalier Microphones,82.51,9.5,Wireless
+683dc98cc029c78e3af4fba2,Yamaha,Yamaha - 30W Desktop Audio System - White,349.99,9.3,Electronics
+683dc98cc029c78e3af4fba3,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",220.99,4.6,Office
+683dc98cc029c78e3af4fba6,Elite Screens,Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,458,7,Office
+683dc98cc029c78e3af4fba7,Pyle Pro,PP999 Phono Preamplifier,18.44,4.1,Audio
+683dc98cc029c78e3af4fba8,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,449.99,6.7,Electronics
+683dc98cc029c78e3af4fbaa,Sigma,Sigma - 35mm f/1.4 DG HSM Art Standard Lens for Canon - Black,899,4.8,Prime
+683dc98cc029c78e3af4fbab,Panasonic,Panasonic - Lumix G85 Mirrorless Camera with 12-60mm Lens - Black,897.99,0.4,Photography
+683dc98cc029c78e3af4fbac,Sigma,Sigma - 35mm f/1.4 DG HSM Art Standard Lens for Canon - Black,899,0,Prime
+683dc98cc029c78e3af4fbad,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,298,1.8,Electronics
+683dc98cc029c78e3af4fbae,Denon,AVR-X3400H 7.2-Channel Network A/V Receiver,799,8.8,Stereos
+683dc98cc029c78e3af4fbaf,Sony,Sony - SRS-XB21 Portable Bluetooth Speaker - Black,99.99,7.9,Portable
+683dc98cc029c78e3af4fbb0,Logitech,Logitech Circle Black Portable Wifi Video Monitoring Camera Webcam,179.99,7.4,Computers/Tablets
+683dc98cc029c78e3af4fbb1,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,198,9.4,Electronics
+683dc98cc029c78e3af4fbb2,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",1197.99,1,Electronics
+683dc98cc029c78e3af4fbb3,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,169.85,5.8,Electronics
+683dc98cc029c78e3af4fbb4,Pioneer,Pioneer - 8x External USB 3.0 Quad-Layer Blu-ray Disc DL DVD±RW/CD-RW Drive - Silver,74.99,1.9,Computers
+683dc98cc029c78e3af4fbb5,Denon,AVR-S530BT 5.2-Channel A/V Receiver,229,0.7,Stereos
+683dc98cc029c78e3af4fbb6,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,159.99,7.8,Electronics
+683dc98cc029c78e3af4fbb7,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",76.99,1.1,Auto
+683dc98cc029c78e3af4fbb8,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,483.94,6.6,Auto
+683dc98cc029c78e3af4fbb9,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",1199.99,3.4,Electronics
+683dc98cc029c78e3af4fbba,Memorex,Memorex CD/Cassette Recorder Boombox MP3 AM/FM FlexBeats MP3262 with Aux line in jack - Black,47.99,6,Portable
+683dc98cc029c78e3af4fbbb,Antec,One System Cabinet,55.99,9.3,Computers
+683dc98cc029c78e3af4fbbc,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,136.99,1.1,Stereos
+683dc98cc029c78e3af4fbbd,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",245.99,0.9,Electronics
+683dc98cc029c78e3af4fbbe,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,94.99,9.1,Electronics
+683dc98cc029c78e3af4fbbf,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",73.91,5,Electronics
+683dc98cc029c78e3af4fbc1,Kicker,"Kicker DSC44 4 D-Series 2-Way Car Speakers with 1/2"" Tweeters""",26.99,6.3,Electronics
+683dc98cc029c78e3af4fbc2,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,281.99,3.4,Electronics
+683dc98cc029c78e3af4fbc3,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,248,5.1,Electronics
+683dc98cc029c78e3af4fbc4,Aftershokz,AfterShokz Sportz Titanium Open Ear Wired Bone Conduction Headphones,49.95,8.7,Headphones
+683dc98cc029c78e3af4fbc5,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,284.99,9.3,Auto
+683dc98cc029c78e3af4fbc6,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,140.5,4.7,Computers
+683dc98cc029c78e3af4fbc7,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",239.99,9.4,Electronics
+683dc98cc029c78e3af4fbc9,Kanto Living,P101 Ceiling Projector Mount (White),49.99,7.6,Office
+683dc98cc029c78e3af4fbca,Epson,Epson EX5250 Pro Wireless Business Projector,549.99,6.8,Office
+683dc98cc029c78e3af4fbcb,Kanto,"Kanto Living 8 Powered Subwoofer -Gloss White""",279.99,5.9,Electronics
+683dc98cc029c78e3af4fbcc,LG,GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,33.08,5.5,Computers
+683dc98cc029c78e3af4fbcd,Sony,Sony Ultra-Portable Bluetooth Speaker,23.95,8.6,Electronics
+683dc98cc029c78e3af4fbcf,Pyle Pro,PP999 Phono Preamplifier,15.54,5.4,Audio
+683dc98cc029c78e3af4fbd0,Google,Google Daydream View - VR Headset (Slate),69.99,0.9,Video
+683dc98cc029c78e3af4fbd1,Bower,Energizer Nikon D5100/3100 Battery Grip,59.88,8.8,Electronics
+683dc98cc029c78e3af4fbd2,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",467.96,5.1,Electronics
+683dc98cc029c78e3af4fbd3,Alpine,Alpine Electronics PWE-S8-WRA Powered Subwoofer for 2011-Up Jeep Wrangler,449.89,5.9,Powered
+683dc98cc029c78e3af4fbd4,ZTE,ZTE Warp Elite No Contract Phone - Retail Packaging - Boost,89,3.3,No-Contract
+683dc98cc029c78e3af4fbd5,SANUS,Sanus WSS2-W1 White Sonos Speaker Stands,119.99,0.9,Furniture
+683dc98cc029c78e3af4fbd6,Olympus,M.Zuiko Digital ED 40-150mm f/4-5.6 R Lens (Silver),124,6.2,Photography
+683dc98cc029c78e3af4fbd7,BIC America,"Bic America Rtr1530 15 Rtr Series 3-way Tower Speaker""",139.2,5.4,Electronics
+683dc98cc029c78e3af4fbd8,Innovative Technology,Details About Innovative Technology Itsbo358p Bluetooth Outdoor Rock Speaker Pair,99.99,10,Portable
+683dc98cc029c78e3af4fbd9,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",133.99,5.2,Auto
+683dc98cc029c78e3af4fbda,Samsung,Samsung - 960 EVO 250GB Internal PCI Express 3.0 x4 (NVMe) Solid State Drive for Laptops,142.99,5.4,Computers
+683dc98cc029c78e3af4fbdb,Master Dynamic,Master and Dynamic MH40S2 Award Winning Over-ear,324.99,1.2,Headphones
+683dc98cc029c78e3af4fbdc,Aluratek,Aluratek AIRMM03F Wi-Fi Internet Radio Streaming Pandora,79.99,9.6,Speaker
+683dc98cc029c78e3af4fbde,Sanus,Sanus - Speaker Stands (Pair) - Black,49.99,4.9,Kitchen
+683dc98cc029c78e3af4fbdf,Digipower,Digipower - Dual Battery Charger - Gray,59.99,5.4,Accessories
+683dc98cc029c78e3af4fbe0,Kanto Living,P101 Ceiling Projector Mount (White),49.99,5.5,Office
+683dc98cc029c78e3af4fbe1,Apple,128GB iPod touch (Space Gray) (6th Generation),349.99,7.7,MP3
+683dc98cc029c78e3af4fbe2,TiVo,TiVo - BOLT VOX 3TB DVR and Streaming Player - Black,499.98,2.7,Electronics
+683dc98cc029c78e3af4fbe3,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",18.74,3.2,Electronics
+683dc98cc029c78e3af4fbe4,Cobra Electronics,Cobra - Radar and Laser Detector,127.99,3.7,Auto
+683dc98cc029c78e3af4fbe5,House of Marley,House of Marley,155.92,5.5,Portable
+683dc98cc029c78e3af4fbe6,Netgear,Details About Netgear Powerline 1000 Mbps Wifi 802.11ac 1 Gigabit Port Plw1000100nas,119.99,1.8,Computers
+683dc98cc029c78e3af4fbe7,CORSAIR,CORSAIR - VENGEANCE LED Series 16GB (2PK 8GB) 2.4GHz DDR4 Desktop Memory with LED Lighting - Black,174.9,2.1,Computers/Tablets
+683dc98cc029c78e3af4fbe8,mophie,mophie powerstation Plus Mini External Battery with Built in Cables for Smartphones and Tablets (4,59.95,1.8,Mobile
+683dc98cc029c78e3af4fbea,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",62.99,6,Auto
+683dc98cc029c78e3af4fbeb,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,224.99,5.5,Electronics
+683dc98cc029c78e3af4fbec,BOYO,BOYO - Concealed Mount License Plate Camera with Night Vision - Black,36.95,2.6,Auto
+683dc98cc029c78e3af4fbed,Olympus,M.Zuiko Digital ED 40-150mm f/4-5.6 R Lens (Silver),124.99,4.5,Photography
+683dc98cc029c78e3af4fbee,TP-Link,TL-SG108 8-Port 10/100/1000 Mbps Unmanaged Desktop Switch,28.94,4.4,Computers
+683dc98cc029c78e3af4fbef,Jaybird,Refurbished Jaybird F5-S-B Freedom F5 In-Ear Wireless Headphones - Carbon,145.99,7.7,Electronics
+683dc98cc029c78e3af4fbf0,Pioneer,Pioneer Avh-x3800bhs 6.2 Double-DIN In-Dash DVD Receiver with Bluetooth,329.99,1.9,Auto
+683dc98cc029c78e3af4fbf1,Urban Armor Gear,Case for Microsoft Surface Pro and Pro 4 (Black),69.95,2.7,Computers
+683dc98cc029c78e3af4fbf2,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,140.05,9.6,Stereos
+683dc98cc029c78e3af4fbf4,Antec,One System Cabinet,55.99,1.2,Computers
+683dc98cc029c78e3af4fbf5,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",189.99,6.7,Office
+683dc98cc029c78e3af4fbf6,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",73.43,9.2,Auto
+683dc98cc029c78e3af4fbf7,Power Acoustik,"Power Acoustik - MOFO 15.50 1700 W Woofer - Royal Blue""",131.99,8.6,Electronics
+683dc98cc029c78e3af4fbf8,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,479.99,6.5,Electronics
+683dc98cc029c78e3af4fbf9,Kanto,"Kanto Living 8 Powered Subwoofer -Gloss White""",219.99,5.1,Electronics
+683dc98cc029c78e3af4fbfa,Olympus,M.Zuiko Digital ED 40-150mm f/4-5.6 R Lens (Silver),199,4.2,Photography
+683dc98cc029c78e3af4fbfb,Antec,One System Cabinet,56.5,2.9,Computers
+683dc98cc029c78e3af4fbfc,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,399.99,8.7,Electronics
+683dc98cc029c78e3af4fbfd,Power Acoustik,"Power Acoustik - MOFO 15.50 1700 W Woofer - Royal Blue""",149.99,4.2,Electronics
+683dc98cc029c78e3af4fbfe,Sabrent,Sabrent Sp-byta Speaker System - 2 W Rms - Wireless Speaker[s] - Usb - Ipod Supported (sp-byta),49.99,7.5,Electronics
+683dc98cc029c78e3af4fbff,Jbl,JBL Everest 310 On-Ear Wireless Bluetooth Headphones (Gun Metal),149.95,0.2,Headphones
+683dc98cc029c78e3af4fc00,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,140.05,6.1,Stereos
+683dc98cc029c78e3af4fc01,BIC America,"Bic America Rtr1530 15 Rtr Series 3-way Tower Speaker""",139.99,4,Electronics
+683dc98cc029c78e3af4fc02,Epson,Epson - Home Cinema 2045 LCD Projector - White,849.99,4.6,Office
+683dc98cc029c78e3af4fc03,Epson,Epson - Home Cinema 2045 LCD Projector - White,699.99,6.2,Office
+683dc98cc029c78e3af4fc04,Western Digital,WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX),39.99,3.9,Computers
+683dc98cc029c78e3af4fc06,Corsair,CORSAIR - VENGEANCE RGB Series 32GB (4PK 8GB) 3.466GHz DDR4 Desktop Memory with RGB Lighting - Black,359.99,6.4,Electronics
+683dc98cc029c78e3af4fc07,Pny,PNY - 16 GB (2PK x 8GB) 1.8 GHz DDR3 DIMM Desktop Memory Kit - Black,104.95,4.8,Computers/Tablets
+683dc98cc029c78e3af4fc08,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",296.99,6.6,Electronics
+683dc98cc029c78e3af4fc09,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",57.24,5.2,Electronics
+683dc98cc029c78e3af4fc0b,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),71.88,4.9,Computers
+683dc98cc029c78e3af4fc0c,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,419.95,0.5,Electronics
+683dc98cc029c78e3af4fc0d,Planet Audio,"Planet Audio - 6.2 - Bluetooth - In-Dash DVD Receiver - Black""",89.5,8.3,Auto
+683dc98cc029c78e3af4fc0e,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,495,2.7,Electronics
+683dc98cc029c78e3af4fc0f,Kanto,"Kanto Living 8 Powered Subwoofer -Gloss White""",279.99,6.6,Electronics
+683dc98cc029c78e3af4fc11,Kanto Living,P101 Ceiling Projector Mount (White),40.99,1.5,Office
+683dc98cc029c78e3af4fc12,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",287.29,2.8,Auto
+683dc98cc029c78e3af4fc13,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",70.68,6.1,Electronics
+683dc98cc029c78e3af4fc14,Samsung,Samsung - 960 EVO 250GB Internal PCI Express 3.0 x4 (NVMe) Solid State Drive for Laptops,129.99,8.5,Computers
+683dc98cc029c78e3af4fc15,Jaybird,Refurbished Jaybird F5-S-B Freedom F5 In-Ear Wireless Headphones - Carbon,114.99,8,Electronics
+683dc98cc029c78e3af4fc16,Logitech,Logitech G433 7.1 Wired Gaming Headset with DTS Headphone: X 7.1 Surround for PC,78.99,9.6,Computers
+683dc98cc029c78e3af4fc17,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",170.99,7.8,Office
+683dc98cc029c78e3af4fc18,Acer,Acer Predator G1-710 Desktop Computer - Intel Core i7-6700 3.4 GHz - 16 GB DDR4 SDRAM - 2 TB HDD + 512 GB SSD,1744.99,7.5,Electronics
+683dc98cc029c78e3af4fc19,Logitech,Logitech - Harmony Home Hub - Black,67.99,5.1,Audio
+683dc98cc029c78e3af4fc1b,Kenwood,Kenwood KDC-HD262U CD Receiver with Built-in HD Radio,70.99,6.1,Electronics
+683dc98cc029c78e3af4fc1d,Peak Design,Peak Design Slide Strap 2.0 Camera Strap,64.95,1.8,Photography
+683dc98cc029c78e3af4fc1e,Alpine,Alpine CDESXM145BT Advanced Bluetooth CD / SiriusXM Receiver,178.28,0.7,Satellite
+683dc98cc029c78e3af4fc1f,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,499.99,7.2,Auto
+683dc98cc029c78e3af4fc20,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,499,5.9,Office
+683dc98cc029c78e3af4fc21,Apple,128GB iPod touch (Gold) (6th Generation),349.99,7.7,MP3
+683dc98cc029c78e3af4fc22,Microsoft,Details About Microsoft Arc Mouse Bluetooth 4.0 Souris Wireless For Surface Windows 10,49.97,7.9,Computers
+683dc98cc029c78e3af4fc23,XFX,XFX AMD Radeon RX 580 8GB GDDR5 PCI Express 3.0 Graphics Card,379.99,2.9,Electronics
+683dc98cc029c78e3af4fc24,Fusion Marine,"Fusion - 4 2-Way Marine Speakers with Polypropylene Cones (Pair) - White""",69.79,0.8,Sports
+683dc98cc029c78e3af4fc25,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",319,6.3,Electronics
+683dc98cc029c78e3af4fc26,Apple,128GB iPod touch (Gold) (6th Generation),399.99,6.9,MP3
+683dc98cc029c78e3af4fc27,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",349,4.1,Electronics
+683dc98cc029c78e3af4fc28,Microsoft,Details About Microsoft Arc Mouse Bluetooth 4.0 Souris Wireless For Surface Windows 10,79.99,6.6,Computers
+683dc98cc029c78e3af4fc2a,NETGEAR,NETGEAR Nighthawk AC1900 VDSL/ADSL Modem Router Certified with CenturyLink - Non-bonded,249.99,5.4,Computers
+683dc98cc029c78e3af4fc2b,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,307.99,1.4,Electronics
+683dc98cc029c78e3af4fc2e,SOL REPUBLIC,Amps Air Bluetooth Wireless Earbuds (Deep Blue),179.99,6.4,Headphones
+683dc98cc029c78e3af4fc2f,Marantz,MM8077 7-Channel Power Amplifier,2399,2.8,Power
+683dc98cc029c78e3af4fc30,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,488.99,5.6,Auto
+683dc98cc029c78e3af4fc31,ONLINE,House of Marley - TTR Over-the-Ear Headphones - Silver/Black,141.08,3.9,Electronics
+683dc98cc029c78e3af4fc32,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,76.06,2,Computers
+683dc98cc029c78e3af4fc34,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,149.32,1.8,Stereos
+683dc98cc029c78e3af4fc35,Apple,128GB iPod touch (Space Gray) (6th Generation),369.99,0.1,MP3
+683dc98cc029c78e3af4fc36,House of Marley,House of Marley,149.99,0.4,Portable
+683dc98cc029c78e3af4fc37,Wacom,"Intuos Creative Pen Tablet (Small, Black)",79.95,4.1,Computers
+683dc98cc029c78e3af4fc38,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,199.99,8.3,Computers
+683dc98cc029c78e3af4fc39,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",339,3.5,Electronics
+683dc98cc029c78e3af4fc3a,Jbl,JBL Everest 310 On-Ear Wireless Bluetooth Headphones (Gun Metal),199.95,5.6,Headphones
+683dc98cc029c78e3af4fc3b,Kenwood,Kenwood CD Single DIN In-Dash Bluetooth Car Stereo Receiver KDC-BT365U,92.99,6.8,Consumer
+683dc98cc029c78e3af4fc3c,Kicker,"Kicker DSC44 4 D-Series 2-Way Car Speakers with 1/2"" Tweeters""",29,6.7,Electronics
+683dc98cc029c78e3af4fc3d,Alpine,"Alpine SPR-60 6-1/2 Coaxial 2-Way Type-R Speaker Set""",148.15,1.2,Electronics
+683dc98cc029c78e3af4fc3f,Apple,128GB iPod touch (Space Gray) (6th Generation),299,6.7,MP3
+683dc98cc029c78e3af4fc41,Bose,Virtually Invisible 891 In-Wall Speakers (Pair),599.99,5.8,In-Wall
+683dc98cc029c78e3af4fc42,Alpine,"Alpine SPR-60 6-1/2 Coaxial 2-Way Type-R Speaker Set""",151.99,1.3,Electronics
+683dc98cc029c78e3af4fc43,Sennheiser,SENNHEISER HD 558 Over Ear Headphones HD558 - AUTHORIZED DEALER,95.99,3,Consumer
+683dc98cc029c78e3af4fc44,Aluratek,Aluratek AIRMM03F Wi-Fi Internet Radio Streaming Pandora,101.12,1,Speaker
+683dc98cc029c78e3af4fc45,LG,Verizon LG Transpyre 4G LTE Prepaid Smartphone,59.99,9.4,No-Contract
+683dc98cc029c78e3af4fc46,Epson,Epson - Home Cinema 2045 LCD Projector - White,649.99,9.8,Office
+683dc98cc029c78e3af4fc47,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",175.45,4.5,Auto
+683dc98cc029c78e3af4fc48,Yamaha,"Yamaha - 2.1-Channel Soundbar System with 6-1/2 Wireless Subwoofer and 200-Watt Digital Amplifier - Black""",299.99,4.8,Electronics
+683dc98cc029c78e3af4fc49,Apple,128GB iPod touch (Gold) (6th Generation),279.99,0.1,MP3
+683dc98cc029c78e3af4fc4a,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,79.99,7.1,Auto
+683dc98cc029c78e3af4fc4b,Alpine,Alpine CDESXM145BT Advanced Bluetooth CD / SiriusXM Receiver,166.95,1.2,Satellite
+683dc98cc029c78e3af4fc4c,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,299,0,Electronics
+683dc98cc029c78e3af4fc4d,Alpine,Alpine CDESXM145BT Advanced Bluetooth CD / SiriusXM Receiver,156.5,7.8,Satellite
+683dc98cc029c78e3af4fc4e,Sigma,Sigma - 35mm f/1.4 DG HSM Art Standard Lens for Canon - Black,899,7.9,Prime
+683dc98cc029c78e3af4fc4f,Epson,Epson EX5250 Pro Wireless Business Projector,449.99,3.2,Office
+683dc98cc029c78e3af4fc50,Elite Screens,Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,458,0.5,Office
+683dc98cc029c78e3af4fc51,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,164.99,1.4,Computers
+683dc98cc029c78e3af4fc52,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",173.54,2.4,Office
+683dc98cc029c78e3af4fc53,mophie,mophie powerstation Plus Mini External Battery with Built in Cables for Smartphones and Tablets (4,59.99,5.3,Mobile
+683dc98cc029c78e3af4fc54,Yamaha,"Yamaha - 2.1-Channel Soundbar System with 6-1/2 Wireless Subwoofer and 200-Watt Digital Amplifier - Black""",299.99,9.4,Electronics
+683dc98cc029c78e3af4fc55,Google,Google Daydream View - VR Headset (Slate),72.98,4.4,Video
+683dc98cc029c78e3af4fc56,Yamaha,R-S202 Stereo Receiver with Bluetooth (Black),142.99,0.4,Recievers
+683dc98cc029c78e3af4fc57,Denon,AVR-S530BT 5.2-Channel A/V Receiver,229.99,4.3,Stereos
+683dc98cc029c78e3af4fc58,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,25.43,4.4,Auto
+683dc98cc029c78e3af4fc59,NETGEAR,NETGEAR Nighthawk AC1900 VDSL/ADSL Modem Router Certified with CenturyLink - Non-bonded,218.99,4.6,Computers
+683dc98cc029c78e3af4fc5a,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,623.99,8.5,Electronics
+683dc98cc029c78e3af4fc5b,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,449.95,8.3,Electronics
+683dc98cc029c78e3af4fc5c,Sennheiser,SENNHEISER HD 558 Over Ear Headphones HD558 - AUTHORIZED DEALER,59.98,6.3,Consumer
+683dc98cc029c78e3af4fc5d,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",24.34,0,Electronics
+683dc98cc029c78e3af4fc5e,Epson,Epson - Home Cinema 2045 LCD Projector - White,748.88,8.2,Office
+683dc98cc029c78e3af4fc5f,MSI,17.3 WE72 7RJ Mobile Workstation,1728.05,5.2,Computers
+683dc98cc029c78e3af4fc61,Onkyo,Onkyo TX-NR555 7.2-Channel Network A/V Receiver,247.99,5.4,Electronics
+683dc98cc029c78e3af4fc62,NETGEAR,NETGEAR GS116E-200NAS / NETGEAR ProSafe Plus GS116Ev2 - Switch - unmanaged - 16 x 10/100/1000 - desktop,159.99,3,Electronics
+683dc98cc029c78e3af4fc63,X6D,X6D X105-RF-X1-BBY Rechargeable Active RF/Bluetooth 3D Glasses Full HD,9.51,2.2,Electronics
+683dc98cc029c78e3af4fc64,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",399.96,6.7,Electronics
+683dc98cc029c78e3af4fc65,mophie,mophie powerstation Plus Mini External Battery with Built in Cables for Smartphones and Tablets (4,48.45,0.3,Mobile
+683dc98cc029c78e3af4fc66,Fusion Marine,"Fusion - 4 2-Way Marine Speakers with Polypropylene Cones (Pair) - White""",69.19,9.6,Sports
+683dc98cc029c78e3af4fc67,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,164.99,4.1,Computers
+683dc98cc029c78e3af4fc69,Urban Armor Gear,Case for Microsoft Surface Pro and Pro 4 (Black),49.99,5,Computers
+683dc98cc029c78e3af4fc6b,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",215.99,7.4,Electronics
+683dc98cc029c78e3af4fc6c,Elite Screens,Aeon 71.5 x 130.9 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,1439,8.9,Office
+683dc98cc029c78e3af4fc6d,Sony,GTK-XB90 Bluetooth Speaker,448,8.1,Wireless
+683dc98cc029c78e3af4fc6f,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,449.99,4.5,Electronics
+683dc98cc029c78e3af4fc70,CLARITY-TELECOM,Clarity - Super-Loud Phone Ringer - White,49.95,5.6,Office
+683dc98cc029c78e3af4fc71,Pyle Pro,PP999 Phono Preamplifier,22.99,7.2,Audio
+683dc98cc029c78e3af4fc72,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,999.99,1.1,Electronics
+683dc98cc029c78e3af4fc73,Power Acoustik,"Power Acoustik - MOFO 15.50 1700 W Woofer - Royal Blue""",147.84,8.3,Electronics
+683dc98cc029c78e3af4fc74,Jabra,Jabra Sport Coach Special Edition Sport Headset,119.99,2.7,Electronics
+683dc98cc029c78e3af4fc75,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",101.99,2.4,Auto
+683dc98cc029c78e3af4fc77,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",72.45,3.8,Auto
+683dc98cc029c78e3af4fc78,NETGEAR,NETGEAR GS116E-200NAS / NETGEAR ProSafe Plus GS116Ev2 - Switch - unmanaged - 16 x 10/100/1000 - desktop,156.99,6.5,Electronics
+683dc98cc029c78e3af4fc7a,Kenwood,Kenwood KDC-HD262U CD Receiver with Built-in HD Radio,79.79,7.6,Electronics
+683dc98cc029c78e3af4fc7b,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",72.35,6.3,Auto
+683dc98cc029c78e3af4fc7c,Aluratek,Aluratek AIRMM03F Wi-Fi Internet Radio Streaming Pandora,98.74,2.4,Speaker
+683dc98cc029c78e3af4fc7d,Logitech,"Logitech Focus Case with Integrated Keyboard for iPad Mini 4, Dark Blue",54.95,4.1,Electronics
+683dc98cc029c78e3af4fc7e,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,599.99,9.4,Auto
+683dc98cc029c78e3af4fc80,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",129.99,0.8,Auto
+683dc98cc029c78e3af4fc81,Jaybird,Refurbished Jaybird F5-S-B Freedom F5 In-Ear Wireless Headphones - Carbon,139.99,9.8,Electronics
+683dc98cc029c78e3af4fc82,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,71.99,6.6,Auto
+683dc98cc029c78e3af4fc83,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,79,9.4,Computers
+683dc98cc029c78e3af4fc84,Western Digital,WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX),49.84,2.4,Computers
+683dc98cc029c78e3af4fc85,MartinLogan,"MartinLogan Motion 6 Center Channel Speaker (Piano Black, each)",209.98,3.4,Electronics
+683dc98cc029c78e3af4fc86,Apple,128GB iPod touch (Gold) (6th Generation),289,2.7,MP3
+683dc98cc029c78e3af4fc87,Epson,Epson - Home Cinema 2045 LCD Projector - White,749.99,9.2,Office
+683dc98cc029c78e3af4fc88,Sharp,Sharp CD-BH950 240W 5-Disc Mini Shelf Speaker System with Cassette and Bluetooth,147.99,9.5,Portable
+683dc98cc029c78e3af4fc89,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",58.99,5.8,Auto
+683dc98cc029c78e3af4fc8a,Toshiba,Toshiba - 3TB Internal Serial ATA III Hard Drive for Desktops,139.99,3.1,Internal
+683dc98cc029c78e3af4fc8b,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),82.99,6.8,On
+683dc98cc029c78e3af4fc8e,Rand McNally,Rand McNally 7 Connected Car Tablet Overdryve 7c,79.99,0.7,Electronics
+683dc98cc029c78e3af4fc8f,SANUS,Sanus WSS2-W1 White Sonos Speaker Stands,99.99,6.7,Furniture
+683dc98cc029c78e3af4fc90,DENON - HEOS,7.2CH AVR WITH WIFI _ BLUETOOTH 2 HDMI OUTPUTS 90 WATTS/CH.,599,2.2,Electronics
+683dc98cc029c78e3af4fc91,Denon,AVR-S530BT 5.2-Channel A/V Receiver,279,1.8,Stereos
+683dc98cc029c78e3af4fc92,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,527.02,6.5,Office
+683dc98cc029c78e3af4fc93,Apple,128GB iPod touch (Space Gray) (6th Generation),365.99,0.7,MP3
+683dc98cc029c78e3af4fc94,Cobra Electronics,Cobra - Radar and Laser Detector,116.99,3.6,Auto
+683dc98cc029c78e3af4fc95,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,483.95,4.3,Auto
+683dc98cc029c78e3af4fc98,LG,GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,59,8.6,Computers
+683dc98cc029c78e3af4fc9a,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",349.99,9.5,Electronics
+683dc98cc029c78e3af4fc9b,DENON - HEOS,7.2CH AVR WITH WIFI _ BLUETOOTH 2 HDMI OUTPUTS 90 WATTS/CH.,499,2.7,Electronics
+683dc98cc029c78e3af4fc9c,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,455.99,5.9,Electronics
+683dc98cc029c78e3af4fc9e,BIC America,"Bic America Rtr1530 15 Rtr Series 3-way Tower Speaker""",187.79,8.8,Electronics
+683dc98cc029c78e3af4fca0,Bose,251 Outdoor Environmental Speakers (White),399.99,3.4,Audio
+683dc98cc029c78e3af4fca1,Apple,128GB iPod touch (Gold) (6th Generation),289.99,0.7,MP3
+683dc98cc029c78e3af4fca2,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,269.99,5,Auto
+683dc98cc029c78e3af4fca3,Isimple,iSimple - TranzIt Bluetooth Factory Radio Module - Black,69.99,7.8,Consumer
+683dc98cc029c78e3af4fca4,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,319.99,8.4,Electronics
+683dc98cc029c78e3af4fca5,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",399.99,2.9,Electronics
+683dc98cc029c78e3af4fca6,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,599.99,1.1,Electronics
+683dc98cc029c78e3af4fca7,Kanto Living,sub6 100W 6 Active Subwoofer (Matte Gray),239.99,3.6,Electronics
+683dc98cc029c78e3af4fca8,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,548,7.6,Office
+683dc98cc029c78e3af4fca9,ONLINE,House of Marley - TTR Over-the-Ear Headphones - Silver/Black,124.57,0.4,Electronics
+683dc98cc029c78e3af4fcab,JVC,"JVC KW-V220BT DVD/CD/USB Receiver with Bluetooth and 6.2 Touchscreen""",209.99,4.5,Auto
+683dc98cc029c78e3af4fcac,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",30.47,8.7,Electronics
+683dc98cc029c78e3af4fcad,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),69.99,1.7,Computers
+683dc98cc029c78e3af4fcae,Master Dynamic,MH30 Foldable On-Ear Headphones (Brown/Silver),299,2.1,Headphones
+683dc98cc029c78e3af4fcaf,NETGEAR,NETGEAR Nighthawk AC1900 VDSL/ADSL Modem Router Certified with CenturyLink - Non-bonded,243.99,4.1,Computers
+683dc98cc029c78e3af4fcb0,Alpine,"Alpine - 5 x 7"" 2-Way Coaxial Car Speakers with Poly-Mica Cones (Pair) - Black""",99.99,2,Auto
+683dc98cc029c78e3af4fcb1,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",30.7,0,Electronics
+683dc98cc029c78e3af4fcb2,Pioneer,Pioneer Avh-x3800bhs 6.2 Double-DIN In-Dash DVD Receiver with Bluetooth,271.15,7.5,Auto
+683dc98cc029c78e3af4fcb3,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,84.99,10,Computers
+683dc98cc029c78e3af4fcb4,Kicker,"KICKER - KM 6.5 2-Way Coaxial Marine Speaker with Injection-Molded Polypropylene Cone (Pair) - Charcoal""",179.99,7.3,Sports
+683dc98cc029c78e3af4fcb5,Sound Design,iHome iBN43BC Bluetooth Stereo Dual Alarm FM Clock Radio and Speakerphone with USB Charging,91.99,8.3,Portable
+683dc98cc029c78e3af4fcb6,Microsoft,Details About Microsoft Arc Mouse Bluetooth 4.0 Souris Wireless For Surface Windows 10,79.99,2.8,Computers
+683dc98cc029c78e3af4fcb7,Kenwood,Kenwood KMM-BT315U Digital Media Receiver with Built-In Bluetooth (Black),57.99,4.3,Electronics
+683dc98cc029c78e3af4fcb8,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",63.99,2.6,Auto
+683dc98cc029c78e3af4fcb9,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,449.99,7.1,Electronics
+683dc98cc029c78e3af4fcba,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",359.99,2.4,Electronics
+683dc98cc029c78e3af4fcbb,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",218.5,9.3,Office
+683dc98cc029c78e3af4fcbc,Epson,Epson - Home Cinema 2045 LCD Projector - White,579.99,9.4,Office
+683dc98cc029c78e3af4fcbd,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",41.99,7.2,Auto
+683dc98cc029c78e3af4fcbe,Urban Armor Gear,Case for Microsoft Surface Pro and Pro 4 (Black),59.99,6.9,Computers
+683dc98cc029c78e3af4fcc0,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",72.66,7.7,Auto
+683dc98cc029c78e3af4fcc1,Pny,PNY - 16 GB (2PK x 8GB) 1.8 GHz DDR3 DIMM Desktop Memory Kit - Black,89.95,3.7,Computers/Tablets
+683dc98cc029c78e3af4fcc2,Elite Screens,Aeon 71.5 x 130.9 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,704.95,7.2,Office
+683dc98cc029c78e3af4fcc3,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),78.99,2.8,On
+683dc98cc029c78e3af4fcc4,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,269.99,5.7,Electronics
+683dc98cc029c78e3af4fcc5,JBL,JBL - Reflect Contour 2 Wireless In-Ear Headphones - Black,99.99,8.3,Headphones
+683dc98cc029c78e3af4fcc7,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,137.99,4.9,Electronics
+683dc98cc029c78e3af4fcc8,Kanto Living,sub6 100W 6 Active Subwoofer (Matte Gray),189.99,3.3,Electronics
+683dc98cc029c78e3af4fcc9,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",809.99,5.3,Electronics
+683dc98cc029c78e3af4fcca,House of Marley,House of Marley,130.99,7.2,Portable
+683dc98cc029c78e3af4fccb,Kenwood,kenwood pkg-mr362bt marine cd receiver with bluetooth and 6.5 2 way speakers package,179.99,6.7,Sports
+683dc98cc029c78e3af4fccd,Apple,128GB iPod touch (Space Gray) (6th Generation),279.99,9.2,MP3
+683dc98cc029c78e3af4fcce,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,599.99,5.9,Electronics
+683dc98cc029c78e3af4fccf,Yamaha,R-S202 Stereo Receiver with Bluetooth (Black),149.99,0.5,Recievers
+683dc98cc029c78e3af4fcd0,mophie,mophie powerstation Plus Mini External Battery with Built in Cables for Smartphones and Tablets (4,47.99,4.5,Mobile
+683dc98cc029c78e3af4fcd1,Google,Google Daydream View - VR Headset (Slate),89.97,4.4,Video
+683dc98cc029c78e3af4fcd2,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,99.99,8.1,Auto
+683dc98cc029c78e3af4fcd3,Kicker,"KICKER - KM 6.5 2-Way Coaxial Marine Speaker with Injection-Molded Polypropylene Cone (Pair) - Charcoal""",143.95,7.1,Sports
+683dc98cc029c78e3af4fcd5,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",173.99,9.7,Auto
+683dc98cc029c78e3af4fcd6,Sony,Sony LBT-GPX555 Mini-System with Bluetooth and NFC,488,8.2,Electronics
+683dc98cc029c78e3af4fcd7,Alpine,"Alpine - 9 - Built-In GPS - CD/DVD - Built-In Bluetooth - Built-In HD Radio - In-Dash Deck - Black""",2599.98,4.1,Electronics
+683dc98cc029c78e3af4fcd8,SANUS,Sanus WSS2-W1 White Sonos Speaker Stands,99.99,0.1,Furniture
+683dc98cc029c78e3af4fcd9,Alpine,"Alpine - 5 x 7"" 2-Way Coaxial Car Speakers with Poly-Mica Cones (Pair) - Black""",59.99,6.2,Auto
+683dc98cc029c78e3af4fcda,Razer,Razer BlackShark Over Ear Noise Isolating PC Gaming Headset - Metal Construction and Compatible with PS4,144.94,6.9,Electronics
+683dc98cc029c78e3af4fcdb,"Sdi Technologies, Inc.",iHome Rechargeable Splash Proof Stereo Bluetooth Speaker - Black (IBT33BC),43.99,3.4,Portable
+683dc98cc029c78e3af4fcdc,Pioneer,Pioneer - 8x External USB 3.0 Quad-Layer Blu-ray Disc DL DVD±RW/CD-RW Drive - Silver,74.99,7.3,Computers
+683dc98cc029c78e3af4fcdd,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,16.99,3.5,Headphones
+683dc98cc029c78e3af4fcde,LG,GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,25.99,7.4,Computers
+683dc98cc029c78e3af4fcdf,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,101.99,7.3,Computers
+683dc98cc029c78e3af4fce1,Yamaha,Yamaha WX-030BL MusicCast Wireless Speaker with Wi-Fi and Bluetooth (Black),217.99,9.9,Electronics
+683dc98cc029c78e3af4fce3,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),57.99,3,On
+683dc98cc029c78e3af4fce4,Cobra Electronics,Cobra - Radar and Laser Detector,96.99,7.1,Auto
+683dc98cc029c78e3af4fce5,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,24.99,4.9,Headphones
+683dc98cc029c78e3af4fce6,TP-Link,TL-SG108 8-Port 10/100/1000 Mbps Unmanaged Desktop Switch,29.99,5.2,Computers
+683dc98cc029c78e3af4fce7,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",79.99,6.8,Auto
+683dc98cc029c78e3af4fce8,Crosley,"Crosley CR49-TA Traveler Turntable with Stereo Speakers and Adjustable Tone Control, Tan",99.95,8.8,Electronics
+683dc98cc029c78e3af4fce9,Belkin,"Ultimate Keyboard Case for iPad 2nd, 3rd, 4th Gen",69.95,2.6,Computers
+683dc98cc029c78e3af4fcea,Microsoft,Microsoft Surface Pro 4 Type Cover with Fingerprint ID,124.19,5.5,Electronics
+683dc98cc029c78e3af4fceb,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,99.99,8.9,Computers
+683dc98cc029c78e3af4fcec,Yamaha,"MusicCast Wireless Speaker, White",199.99,1.9,Electrical
+683dc98cc029c78e3af4fced,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,279.99,2,Electronics
+683dc98cc029c78e3af4fcef,NETGEAR,NETGEAR Nighthawk AC1900 VDSL/ADSL Modem Router Certified with CenturyLink - Non-bonded,249.99,9.2,Computers
+683dc98cc029c78e3af4fcf0,Zmodo,Details About Zmodo Greet Wifi Video Doorbell W/ Zmodo Beam Smart Home Hub And Wifi Extender,99.99,1.6,Doorbells
+683dc98cc029c78e3af4fcf1,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",321.99,8.9,Electronics
+683dc98cc029c78e3af4fcf2,Pyle Pro,PP999 Phono Preamplifier,20.23,4,Audio
+683dc98cc029c78e3af4fcf3,Sanus,Sanus - Speaker Stands (Pair) - Black,49.99,4.7,Kitchen
+683dc98cc029c78e3af4fcf4,Kanto Living,P101 Ceiling Projector Mount (White),49.99,9.3,Office
+683dc98cc029c78e3af4fcf5,Jbl,JBL Inspire 700 In-Ear Wireless Sport Headphones with Charging Case (Black),79.95,3.3,Headphones
+683dc98cc029c78e3af4fcf6,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),82.99,0.2,On
+683dc98cc029c78e3af4fcf7,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",176.36,3.2,Office
+683dc98cc029c78e3af4fcf8,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",150,8.5,Auto
+683dc98cc029c78e3af4fcf9,Alpine,Alpine - Rear View Camera - Black,149.95,9.5,Electronics
+683dc98cc029c78e3af4fcfa,Apple,128GB iPod touch (Gold) (6th Generation),359.99,4.2,MP3
+683dc98cc029c78e3af4fcfb,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,119.88,9.9,Computers
+683dc98cc029c78e3af4fcfc,Sony,Sony Ultra-Portable Bluetooth Speaker,31.95,0.3,Electronics
+683dc98cc029c78e3af4fcfd,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",127.99,4.3,Auto
+683dc98cc029c78e3af4fcfe,Sennheiser,Sennheiser - Digital Headphone Amplifier - Silver,2199.95,7,Audio
+683dc98cc029c78e3af4fcff,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),73.11,7.5,On
+683dc98cc029c78e3af4fd00,Zoom,Zoom - H1 Handy Recorder - Black,149.99,7.7,Musical
+683dc98cc029c78e3af4fd01,Escort,Escort Passport X70 Long Range Smartphone Live App Enabled Laser Radar Detector,208,8.4,Auto
+683dc98cc029c78e3af4fd02,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),75.76,2.4,Computers
+683dc98cc029c78e3af4fd03,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,551.09,7.5,Electronics
+683dc98cc029c78e3af4fd04,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,444.99,9.9,Auto
+683dc98cc029c78e3af4fd05,MartinLogan,"MartinLogan Motion 6 Center Channel Speaker (Piano Black, each)",209.96,5.3,Electronics
+683dc98cc029c78e3af4fd06,Marantz,Marantz - NR 350W 7.2-Ch. Hi-Res With HEOS 4K Ultra HD A/V Home Theater Receiver - Black,749.98,2.7,TVs
+683dc98cc029c78e3af4fd07,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",549.95,5.6,Electronics
+683dc98cc029c78e3af4fd09,Pny,PNY - 16 GB (2PK x 8GB) 1.8 GHz DDR3 DIMM Desktop Memory Kit - Black,86.95,4.3,Computers/Tablets
+683dc98cc029c78e3af4fd0a,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",176.99,0.3,Electronics
+683dc98cc029c78e3af4fd0b,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,129.98,3,Computers
+683dc98cc029c78e3af4fd0c,Viper,Viper 7153V 1-Way 5-Button SuperCode Replacement Remote for 5701,29.99,1,Projector
+683dc98cc029c78e3af4fd0d,BIC America,"Bic America Rtr1530 15 Rtr Series 3-way Tower Speaker""",139.99,8.6,Electronics
+683dc98cc029c78e3af4fd0e,Joby,JOBY GorillaPod 3K Kit. Compact Tripod 3K Stand and Ballhead 3K for Compact Mirrorless Cameras or devices up to 3K (6.6lbs). Black/Charcoal.,39.95,1,Tripod
+683dc98cc029c78e3af4fd0f,Apple,128GB iPod touch (Space Gray) (6th Generation),359.99,6.3,MP3
+683dc98cc029c78e3af4fd10,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,132.99,7.2,Electronics
+683dc98cc029c78e3af4fd12,Corsair,CORSAIR - VOID PRO RGB Wireless Dolby 7.1-Channel Surround Sound Gaming Heads...,106.89,3.1,Office
+683dc98cc029c78e3af4fd13,Kanto Living,sub6 100W 6 Active Subwoofer (Matte Gray),189.99,6.1,Electronics
+683dc98cc029c78e3af4fd14,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,248,6.9,Electronics
+683dc98cc029c78e3af4fd16,Zoom,Zoom - H1 Handy Recorder - Black,174.95,9,Musical
+683dc98cc029c78e3af4fd17,Sennheiser,SENNHEISER HD 558 Over Ear Headphones HD558 - AUTHORIZED DEALER,99.99,1.7,Consumer
+683dc98cc029c78e3af4fd18,MartinLogan,"MartinLogan Motion 6 Center Channel Speaker (Piano Black, each)",299.95,3.2,Electronics
+683dc98cc029c78e3af4fd19,Sanus,Sanus - Speaker Stands (Pair) - Black,49.99,3.5,Kitchen
+683dc98cc029c78e3af4fd1a,Samsung,Samsung EVO+ 256GB UHS-I microSDXC U3 Memory Card with Adapter (MB-MC256DA/AM),33,2.7,Micro
+683dc98cc029c78e3af4fd1b,Belkin,"Ultimate Keyboard Case for iPad 2nd, 3rd, 4th Gen",99.99,6.6,Computers
+683dc98cc029c78e3af4fd1c,MartinLogan,"MartinLogan Motion 6 Center Channel Speaker (Piano Black, each)",299.98,8.7,Electronics
+683dc98cc029c78e3af4fd1d,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,849.99,1,Electronics
+683dc98cc029c78e3af4fd1e,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",173.39,4.9,Auto
+683dc98cc029c78e3af4fd1f,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),72.39,5.4,Computers
+683dc98cc029c78e3af4fd20,Google,Google Daydream View - VR Headset (Slate),60,9.6,Video
+683dc98cc029c78e3af4fd21,JBL,JBL Cinema SB350 Soundbar System,480,2.1,Electronics
+683dc98cc029c78e3af4fd22,Denon,AVR-X3400H 7.2-Channel Network A/V Receiver,999.98,8.5,Stereos
+683dc98cc029c78e3af4fd23,Kicker,"Kicker DSC44 4 D-Series 2-Way Car Speakers with 1/2"" Tweeters""",29.16,4.7,Electronics
+683dc98cc029c78e3af4fd24,X6D,X6D X105-RF-X1-BBY Rechargeable Active RF/Bluetooth 3D Glasses Full HD,39.99,6.7,Electronics
+683dc98cc029c78e3af4fd26,Antec,One System Cabinet,53.5,9.5,Computers
+683dc98cc029c78e3af4fd28,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),68.82,10,Computers
+683dc98cc029c78e3af4fd29,Kanto Living,P101 Ceiling Projector Mount (White),39.99,0.7,Office
+683dc98cc029c78e3af4fd2a,Epson,Epson - Home Cinema 2045 LCD Projector - White,636.99,1.1,Office
+683dc98cc029c78e3af4fd2b,TP-Link,TL-SG108 8-Port 10/100/1000 Mbps Unmanaged Desktop Switch,29.99,4.7,Computers
+683dc98cc029c78e3af4fd2c,Marantz,MM8077 7-Channel Power Amplifier,2399.98,8.8,Power
+683dc98cc029c78e3af4fd2d,Logitech,"Logitech Focus Case with Integrated Keyboard for iPad Mini 4, Dark Blue",89.99,5.8,Electronics
+683dc98cc029c78e3af4fd2e,CORSAIR,CORSAIR - Vengeance LPX 32GB (2PK x 16GB) 2.6 GHz DDR4 DRAM Desktop Memory Kit - Black,284.99,0.8,Desktop
+683dc98cc029c78e3af4fd2f,Pyle Pro,PP999 Phono Preamplifier,18.23,4,Audio
+683dc98cc029c78e3af4fd31,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,199.74,6.2,Computers
+683dc98cc029c78e3af4fd32,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",79.98,6.2,Auto
+683dc98cc029c78e3af4fd33,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,525,9.2,Office
+683dc98cc029c78e3af4fd34,Epson,Epson - Home Cinema 2045 LCD Projector - White,717,9.6,Office
+683dc98cc029c78e3af4fd35,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",384.97,3.6,Electronics
+683dc98cc029c78e3af4fd36,Sennheiser,SENNHEISER HD 558 Over Ear Headphones HD558 - AUTHORIZED DEALER,120.09,6.6,Consumer
+683dc98cc029c78e3af4fd37,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,143.11,8.9,Stereos
+683dc98cc029c78e3af4fd38,Panasonic,Panasonic - Lumix G85 Mirrorless Camera with 12-60mm Lens - Black,999.99,8.8,Photography
+683dc98cc029c78e3af4fd39,Sharp,Sharp CD-BH950 240W 5-Disc Mini Shelf Speaker System with Cassette and Bluetooth,249.99,1.4,Portable
+683dc98cc029c78e3af4fd3a,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",194.99,9.3,Auto
+683dc98cc029c78e3af4fd3b,Kenwood,Kenwood KDC-HD262U CD Receiver with Built-in HD Radio,99.99,5.6,Electronics
+683dc98cc029c78e3af4fd3d,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",1,2.2,Electronics
+683dc98cc029c78e3af4fd3e,Alpine,"Alpine - 5 x 7"" 2-Way Coaxial Car Speakers with Poly-Mica Cones (Pair) - Black""",89.99,4.1,Auto
+683dc98cc029c78e3af4fd3f,Viper,Viper 7153V 1-Way 5-Button SuperCode Replacement Remote for 5701,89.99,3.3,Projector
+683dc98cc029c78e3af4fd41,Kicker,"Kicker DSC44 4 D-Series 2-Way Car Speakers with 1/2"" Tweeters""",28.99,5.2,Electronics
+683dc98cc029c78e3af4fd42,Denon,AVR-S530BT 5.2-Channel A/V Receiver,279,0.3,Stereos
+683dc98cc029c78e3af4fd43,JVC,"JVC KW-V220BT DVD/CD/USB Receiver with Bluetooth and 6.2 Touchscreen""",199.99,0.8,Auto
+683dc98cc029c78e3af4fd44,Leef,Leef Liacmwk000e1 iAccess iOS microSD Card Reader,41.99,5.6,Electronics
+683dc98cc029c78e3af4fd45,Kenwood,Kenwood KDC-HD262U CD Receiver with Built-in HD Radio,80.99,7.6,Electronics
+683dc98cc029c78e3af4fd46,Corsair,CORSAIR - VOID PRO RGB Wireless Dolby 7.1-Channel Surround Sound Gaming Heads...,99.99,9.8,Office
+683dc98cc029c78e3af4fd47,Cobra Electronics,Cobra - Radar and Laser Detector,119.95,9.4,Auto
+683dc98cc029c78e3af4fd48,Cobra Electronics,Cobra - Radar and Laser Detector,114.99,8.1,Auto
+683dc98cc029c78e3af4fd49,House of Marley,House of Marley,179.99,2.7,Portable
+683dc98cc029c78e3af4fd4a,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,129.99,4.9,Electronics
+683dc98cc029c78e3af4fd4b,JBL,JBL Cinema SB350 Soundbar System,299.95,7,Electronics
+683dc98cc029c78e3af4fd4c,Epson,Epson - Home Cinema 2045 LCD Projector - White,649.99,9.5,Office
+683dc98cc029c78e3af4fd4d,Cobra Electronics,Cobra - Radar and Laser Detector,118.35,9.5,Auto
+683dc98cc029c78e3af4fd4e,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,26.97,5.2,Auto
+683dc98cc029c78e3af4fd4f,ONLINE,House of Marley - TTR Over-the-Ear Headphones - Silver/Black,299.99,9.5,Electronics
+683dc98cc029c78e3af4fd50,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",128.95,0.6,Auto
+683dc98cc029c78e3af4fd51,Epson,Epson - Home Cinema 2045 LCD Projector - White,718,5.7,Office
+683dc98cc029c78e3af4fd52,Sharp,Sharp CD-BH950 240W 5-Disc Mini Shelf Speaker System with Cassette and Bluetooth,139.95,0.9,Portable
+683dc98cc029c78e3af4fd54,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,168.5,8.1,Computers
+683dc98cc029c78e3af4fd55,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,31.61,0.8,Auto
+683dc98cc029c78e3af4fd56,ZTE,ZTE Warp Elite No Contract Phone - Retail Packaging - Boost,89,1.6,No-Contract
+683dc98cc029c78e3af4fd57,Yamaha,R-S202 Stereo Receiver with Bluetooth (Black),110.99,6.1,Recievers
+683dc98cc029c78e3af4fd58,Pioneer,Pioneer Avh-x3800bhs 6.2 Double-DIN In-Dash DVD Receiver with Bluetooth,299.95,5.4,Auto
+683dc98cc029c78e3af4fd59,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",139.99,3.4,Auto
+683dc98cc029c78e3af4fd5a,Sound Design,iHome iBN43BC Bluetooth Stereo Dual Alarm FM Clock Radio and Speakerphone with USB Charging,81.99,9.9,Portable
+683dc98cc029c78e3af4fd5b,Apple,128GB iPod touch (Gold) (6th Generation),299.99,8.5,MP3
+683dc98cc029c78e3af4fd5c,Samsung,Details About Samsung Gear Iconx 2018 Edition Cordfree Fitness Earbuds Black (us Version),149.99,0.1,Headphones
+683dc98cc029c78e3af4fd5e,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,25.43,4.3,Auto
+683dc98cc029c78e3af4fd5f,MartinLogan,"MartinLogan Motion 6 Center Channel Speaker (Piano Black, each)",239,3.6,Electronics
+683dc98cc029c78e3af4fd60,Sonic Alert,Sonic Alert Sb300ss Sonic Boom Alarm Clock White,44.55,6.7,Electronics
+683dc98cc029c78e3af4fd61,Razer,Razer BlackShark Over Ear Noise Isolating PC Gaming Headset - Metal Construction and Compatible with PS4,146.5,2.6,Electronics
+683dc98cc029c78e3af4fd62,Kenwood,Kenwood KMM-BT315U Digital Media Receiver with Built-In Bluetooth (Black),89.99,9.2,Electronics
+683dc98cc029c78e3af4fd64,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",30.49,3.6,Electronics
+683dc98cc029c78e3af4fd65,JBL,"JBL - 6-1/2 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",79.99,7.4,Car
+683dc98cc029c78e3af4fd66,Yamaha,Yamaha - 30W Desktop Audio System - White,349.99,6.4,Electronics
+683dc98cc029c78e3af4fd67,Jaybird,Refurbished Jaybird F5-S-B Freedom F5 In-Ear Wireless Headphones - Carbon,113.99,7.2,Electronics
+683dc98cc029c78e3af4fd68,Motorola,Motorola Wi-Fi Pet Video Camera,99.99,9,Electronics
+683dc98cc029c78e3af4fd69,Sony,Sony - BC-TRX Battery Charger - Black,9.99,9.8,Camera
+683dc98cc029c78e3af4fd6a,Onkyo,Onkyo TX-NR555 7.2-Channel Network A/V Receiver,389.99,5.4,Electronics
+683dc98cc029c78e3af4fd6b,Sanus,Sanus - Speaker Stands (Pair) - Black,59.99,6.3,Kitchen
+683dc98cc029c78e3af4fd6c,LG,GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,59,4.9,Computers
+683dc98cc029c78e3af4fd6e,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,161.38,3.4,Stereos
+683dc98cc029c78e3af4fd6f,Kicker,"KICKER - KM 6.5 2-Way Coaxial Marine Speaker with Injection-Molded Polypropylene Cone (Pair) - Charcoal""",134.95,7.3,Sports
+683dc98cc029c78e3af4fd70,Belkin,"Ultimate Keyboard Case for iPad 2nd, 3rd, 4th Gen",92.99,9,Computers
+683dc98cc029c78e3af4fd71,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",2399.99,6,Electronics
+683dc98cc029c78e3af4fd72,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",303.99,8.1,Electronics
+683dc98cc029c78e3af4fd73,RCA,"RCA Indoor Digital TV Antenna, Amplified, 40-Mile Range",27.67,2.7,Electronics
+683dc98cc029c78e3af4fd74,Incipio,Details About Incipio Mods Offgrid Power Pack Battery For Motorola Moto Z Force Z2 Black New,71.99,9.1,Battery
+683dc98cc029c78e3af4fd75,Pioneer,Pioneer Avh-x3800bhs 6.2 Double-DIN In-Dash DVD Receiver with Bluetooth,321.99,2.2,Auto
+683dc98cc029c78e3af4fd76,Master Dynamic,Master and Dynamic MH40S2 Award Winning Over-ear,399,4.3,Headphones
+683dc98cc029c78e3af4fd77,NETGEAR,NETGEAR GS116E-200NAS / NETGEAR ProSafe Plus GS116Ev2 - Switch - unmanaged - 16 x 10/100/1000 - desktop,155.99,9.5,Electronics
+683dc98cc029c78e3af4fd78,Sound Design,iHome iBN43BC Bluetooth Stereo Dual Alarm FM Clock Radio and Speakerphone with USB Charging,99.99,4,Portable
+683dc98cc029c78e3af4fd79,Samsung,Details About Samsung Gear Iconx 2018 Edition Cordfree Fitness Earbuds Black (us Version),199.99,3.1,Headphones
+683dc98cc029c78e3af4fd7a,CORSAIR,CORSAIR - Vengeance LPX 32GB (2PK x 16GB) 2.6 GHz DDR4 DRAM Desktop Memory Kit - Black,294.99,1.2,Desktop
+683dc98cc029c78e3af4fd7b,SOL REPUBLIC,Amps Air Bluetooth Wireless Earbuds (Deep Blue),149.99,8.3,Headphones
+683dc98cc029c78e3af4fd7c,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,139.99,4.9,Computers
+683dc98cc029c78e3af4fd7d,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",73.33,1.5,Auto
+683dc98cc029c78e3af4fd7e,Kicker,"KICKER - KM 6.5 2-Way Coaxial Marine Speaker with Injection-Molded Polypropylene Cone (Pair) - Charcoal""",143.99,0.5,Sports
+683dc98cc029c78e3af4fd80,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",324.99,4.1,Electronics
+683dc98cc029c78e3af4fd81,VINPOWER DIGITAL DIRECTSHIP,ECON-S3T-DVD-BK 1-DVDROM TO 3-DVD+/-RW DL 24X TOWER STANDALONE,225,9,Electronics
+683dc98cc029c78e3af4fd82,Sharp,Sharp CD-BH950 240W 5-Disc Mini Shelf Speaker System with Cassette and Bluetooth,163.99,2.6,Portable
+683dc98cc029c78e3af4fd83,Zmodo,Details About Zmodo Hd Wifi Home Security Camera Twoway Audio Motion Detection Cloud Service,35,3.3,Wireless
+683dc98cc029c78e3af4fd84,Power Acoustik,"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",174.99,5.7,Auto
+683dc98cc029c78e3af4fd85,Isimple,iSimple - TranzIt Bluetooth Factory Radio Module - Black,89.99,8.4,Consumer
+683dc98cc029c78e3af4fd87,Power Acoustik,"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",144.37,8.1,Auto
+683dc98cc029c78e3af4fd88,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",74.95,9.3,Auto
+683dc98cc029c78e3af4fd89,Elite Screens,Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,439.99,3.6,Office
+683dc98cc029c78e3af4fd8a,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,583.97,7.7,Auto
+683dc98cc029c78e3af4fd8b,JBL,"JBL - 6-1/2 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",119.99,2.3,Car
+683dc98cc029c78e3af4fd8c,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,132.99,7.4,Electronics
+683dc98cc029c78e3af4fd8d,Lowepro,"Lowepro Dashpoint AVC 1, Blue",23.99,4.8,Electronics
+683dc98cc029c78e3af4fd8e,BOYO,BOYO - Concealed Mount License Plate Camera with Night Vision - Black,37.05,8.8,Auto
+683dc98cc029c78e3af4fd8f,Sennheiser,Sennheiser - Earbud Headphones - Black,609.98,8,Sennheiser
+683dc98cc029c78e3af4fd90,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",69.99,4.1,Auto
+683dc98cc029c78e3af4fd91,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,89.99,7.8,Auto
+683dc98cc029c78e3af4fd92,JBL,"JBL - 6-1/2 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",99.99,3.5,Car
+683dc98cc029c78e3af4fd93,CORSAIR,CORSAIR - Vengeance LPX 32GB (2PK x 16GB) 2.6 GHz DDR4 DRAM Desktop Memory Kit - Black,379.99,4.2,Desktop
+683dc98cc029c78e3af4fd94,Sound Design,iHome iBN43BC Bluetooth Stereo Dual Alarm FM Clock Radio and Speakerphone with USB Charging,49.99,3.3,Portable
+683dc98cc029c78e3af4fd95,Logitech,Logitech G433 7.1 Wired Gaming Headset with DTS Headphone: X 7.1 Surround for PC,99.99,2.3,Computers
+683dc98cc029c78e3af4fd96,Lowepro,"Lowepro Dashpoint AVC 1, Blue",9.99,2,Electronics
+683dc98cc029c78e3af4fd97,DENON - HEOS,7.2CH AVR WITH WIFI _ BLUETOOTH 2 HDMI OUTPUTS 90 WATTS/CH.,486.99,9.9,Electronics
+683dc98cc029c78e3af4fd98,Sennheiser,Sennheiser - Earbud Headphones - Black,799.95,7.1,Sennheiser
+683dc98cc029c78e3af4fd99,Sonic Alert,Sonic Alert Sb300ss Sonic Boom Alarm Clock White,39.95,3.4,Electronics
+683dc98cc029c78e3af4fd9a,Panamax,Panamax - 8-Outlet Power Conditioner/Surge Protector - Black,118.99,6.3,A/V
+683dc98cc029c78e3af4fd9b,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",56.99,9,Auto
+683dc98cc029c78e3af4fd9d,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,19.99,1.7,Auto
+683dc98cc029c78e3af4fd9e,Kanto,"Kanto Living 8 Powered Subwoofer -Gloss White""",279.99,5.6,Electronics
+683dc98cc029c78e3af4fd9f,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,494.99,9,Auto
+683dc98cc029c78e3af4fda2,Corsair,CORSAIR - VENGEANCE RGB Series 32GB (4PK 8GB) 3.466GHz DDR4 Desktop Memory with RGB Lighting - Black,369.99,10,Electronics
+683dc98cc029c78e3af4fda3,Power Acoustik,"Power Acoustik - MOFO 15.50 1700 W Woofer - Royal Blue""",145.69,0.5,Electronics
+683dc98cc029c78e3af4fda4,Denon,AVR-X3400H 7.2-Channel Network A/V Receiver,799.98,6.3,Stereos
+683dc98cc029c78e3af4fda6,Acer,Acer Predator G1-710 Desktop Computer - Intel Core i7-6700 3.4 GHz - 16 GB DDR4 SDRAM - 2 TB HDD + 512 GB SSD,1945.19,5.9,Electronics
+683dc98cc029c78e3af4fda7,Microsoft,Details About Microsoft Arc Mouse Bluetooth 4.0 Souris Wireless For Surface Windows 10,79.99,1.8,Computers
+683dc98cc029c78e3af4fda8,Kanto Living,sub6 100W 6 Active Subwoofer (Matte Gray),239.99,3.9,Electronics
+683dc98cc029c78e3af4fda9,Rand McNally,"Rand McNally 0528011715 IntelliRoute 7 TND 730 GPS Unit""",316.99,3.6,Electronics
+683dc98cc029c78e3af4fdaa,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,129,7.7,Computers
+683dc98cc029c78e3af4fdab,Pyle Pro,PDWM1904 Single-Channel Wireless System with Headset Lavalier Microphones,73.48,0.3,Wireless
+683dc98cc029c78e3af4fdac,Leef,Leef Liacmwk000e1 iAccess iOS microSD Card Reader,24.99,5.1,Electronics
+683dc98cc029c78e3af4fdad,Jbl,JBL Everest 310 On-Ear Wireless Bluetooth Headphones (Gun Metal),149.99,6,Headphones
+683dc98cc029c78e3af4fdae,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",233.95,6.8,Office
+683dc98cc029c78e3af4fdaf,Tivo,TiVo Mini Receiver,140,6.6,Consumer
+683dc98cc029c78e3af4fdb0,SANUS,Sanus WSS2-W1 White Sonos Speaker Stands,99.99,10,Furniture
+683dc98cc029c78e3af4fdb1,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",174.99,4.8,Electronics
+683dc98cc029c78e3af4fdb2,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",153.99,6.8,Electronics
+683dc98cc029c78e3af4fdb3,BOYO,BOYO - Concealed Mount License Plate Camera with Night Vision - Black,69.99,7.3,Auto
+683dc98cc029c78e3af4fdb4,Motorola,Motorola Wi-Fi Pet Video Camera,99.99,9.2,Electronics
+683dc98cc029c78e3af4fdb5,Yamaha,R-S202 Stereo Receiver with Bluetooth (Black),149.95,9.3,Recievers
+683dc98cc029c78e3af4fdb6,Onkyo,Onkyo TX-NR555 7.2-Channel Network A/V Receiver,263.99,8.8,Electronics
+683dc98cc029c78e3af4fdb7,Power Acoustik,"Power Acoustik Pmd-102x 10.1 Ceiling-Mount Swivel Monitor With DVD""",192.47,7.9,Auto
+683dc98cc029c78e3af4fdb8,CORSAIR,CORSAIR - Vengeance LPX 32GB (2PK x 16GB) 2.6 GHz DDR4 DRAM Desktop Memory Kit - Black,269.65,5.4,Desktop
+683dc98cc029c78e3af4fdb9,Kenwood,Kenwood KMM-BT315U Digital Media Receiver with Built-In Bluetooth (Black),99.99,5.6,Electronics
+683dc98cc029c78e3af4fdbb,Elite Screens,Aeon 58.3 x 104.1 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,472.99,0.1,Office
+683dc98cc029c78e3af4fdbc,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,79,5.4,Computers
+683dc98cc029c78e3af4fdbd,TP-Link,TL-SG108 8-Port 10/100/1000 Mbps Unmanaged Desktop Switch,24.99,4.6,Computers
+683dc98cc029c78e3af4fdbe,Denon,AVR-S530BT 5.2-Channel A/V Receiver,229,2.3,Stereos
+683dc98cc029c78e3af4fdbf,Denon,AVR-S530BT 5.2-Channel A/V Receiver,299.99,9,Stereos
+683dc98cc029c78e3af4fdc1,Bower,Energizer Nikon D5100/3100 Battery Grip,43.99,9.6,Electronics
+683dc98cc029c78e3af4fdc2,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,269.99,8.9,Electronics
+683dc98cc029c78e3af4fdc3,Sony,Sony Ultra-Portable Bluetooth Speaker,49.99,4.8,Electronics
+683dc98cc029c78e3af4fdc5,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,399,6.3,Office
+683dc98cc029c78e3af4fdc7,Jbl,JBL Everest 310 On-Ear Wireless Bluetooth Headphones (Gun Metal),199.95,4.1,Headphones
+683dc98cc029c78e3af4fdc8,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,99.99,6.4,Auto
+683dc98cc029c78e3af4fdc9,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",203.99,1.6,Office
+683dc98cc029c78e3af4fdca,Samsung,Samsung EVO+ 256GB UHS-I microSDXC U3 Memory Card with Adapter (MB-MC256DA/AM),57.99,2,Micro
+683dc98cc029c78e3af4fdcb,House of Marley,House of Marley,179.99,9.6,Portable
+683dc98cc029c78e3af4fdcc,Samsung,"Samsung 55 Class 4K (2160P) Smart LED TV (UN55KU7000)""",499.99,2.5,Electronics
+683dc98cc029c78e3af4fdcd,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",180.89,9.6,Electronics
+683dc98cc029c78e3af4fdce,WD,1TB WD Black Mobile OEM Hard Drive (WD10JPLX),74.99,3,Computers
+683dc98cc029c78e3af4fdcf,Pny,PNY - 16 GB (2PK x 8GB) 1.8 GHz DDR3 DIMM Desktop Memory Kit - Black,159.99,5.8,Computers/Tablets
+683dc98cc029c78e3af4fdd0,PYLE,PYLE - Amplifier - Black,156.07,9,Stereos
+683dc98cc029c78e3af4fdd1,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,298,4.3,Electronics
+683dc98cc029c78e3af4fdd2,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,24.99,9.7,Headphones
+683dc98cc029c78e3af4fdd3,Kenwood,Kenwood KMM-BT315U Digital Media Receiver with Built-In Bluetooth (Black),65.99,7.4,Electronics
+683dc98cc029c78e3af4fdd4,Yamaha,Yamaha RX-V479BL 5.1-Channel AV Receiver (Black),399.95,6.9,Electronics
+683dc98cc029c78e3af4fdd5,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,249.99,5.1,Electronics
+683dc98cc029c78e3af4fdd6,Marantz,Marantz - NR 350W 7.2-Ch. Hi-Res With HEOS 4K Ultra HD A/V Home Theater Receiver - Black,749.98,7.9,TVs
+683dc98cc029c78e3af4fdd7,Urban Armor Gear,Case for Microsoft Surface Pro and Pro 4 (Black),60.99,2,Computers
+683dc98cc029c78e3af4fdd8,Yamaha,AVENTAGE RX-A1070 7.2-Channel Network A/V Receiver,975,1.8,TV
+683dc98cc029c78e3af4fdd9,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,480.99,1.9,Auto
+683dc98cc029c78e3af4fdda,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,24.99,4.3,Headphones
+683dc98cc029c78e3af4fddb,Power Acoustik,"Power Acoustik - MOFO 15.50 1700 W Woofer - Royal Blue""",153.99,0.3,Electronics
+683dc98cc029c78e3af4fddc,Alpine,Alpine CDESXM145BT Advanced Bluetooth CD / SiriusXM Receiver,159,4.5,Satellite
+683dc98cc029c78e3af4fddd,Sharp,Sharp CD-BH950 240W 5-Disc Mini Shelf Speaker System with Cassette and Bluetooth,199.99,8.9,Portable
+683dc98cc029c78e3af4fdde,LG,GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,26.99,8.7,Computers
+683dc98cc029c78e3af4fddf,Elite Screens,Aeon 71.5 x 130.9 16:9 Fixed Frame Projection Screen with CineWhite Projection Surface,921,6.5,Office
+683dc98cc029c78e3af4fde0,Cobra Electronics,Cobra - Radar and Laser Detector,149.95,8.6,Auto
+683dc98cc029c78e3af4fde1,Sony,Sony - 5.1-Ch. 3D / Smart Blu-ray Home Theater System - Black,248,7.1,Electronics
+683dc98cc029c78e3af4fde3,Aftershokz,AfterShokz Sportz Titanium Open Ear Wired Bone Conduction Headphones,49.95,0.1,Headphones
+683dc98cc029c78e3af4fde4,Alpine,"Alpine SPR-60 6-1/2 Coaxial 2-Way Type-R Speaker Set""",113.33,0.5,Electronics
+683dc98cc029c78e3af4fde5,Power Acoustik,"Power Acoustik EG1-4500D Edge Series Monoblock Class D Amp, 4,500 Watts Max",155.98,8.5,Auto
+683dc98cc029c78e3af4fde6,ECOXGEAR,ECOXGEAR - ECOSTONE Bluetooth Waterproof Speaker - Blue,129.95,6.2,Stereos
+683dc98cc029c78e3af4fde7,Alpine,"Alpine - 6-1/2 2-Way Component Car Speakers with Poly-Mica Cones (Pair) - Black""",116.99,1.7,Auto
+683dc98cc029c78e3af4fde8,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",57.49,5.1,Auto
+683dc98cc029c78e3af4fde9,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,499,1,Auto
+683dc98cc029c78e3af4fdeb,Sennheiser,Sennheiser - Digital Headphone Amplifier - Silver,2199.99,1.5,Audio
+683dc98cc029c78e3af4fdec,Yamaha,"MusicCast Wireless Speaker, White",199.95,0.4,Electrical
+683dc98cc029c78e3af4fded,Kanto Living,P101 Ceiling Projector Mount (White),49.99,8.6,Office
+683dc98cc029c78e3af4fdee,SanDisk,SanDisk Ultra II 1TB SATA III SSD - 2.5-Inch 7mm Height Solid State Drive - SDSSDHII-1T00-G25,269,2.7,Electronics
+683dc98cc029c78e3af4fdef,Planet Audio,"Planet Audio - 6.2 - Bluetooth - In-Dash DVD Receiver - Black""",89.13,2.2,Auto
+683dc98cc029c78e3af4fdf0,Logitech,Logitech - Harmony Home Hub - Black,124.59,6.9,Audio
+683dc98cc029c78e3af4fdf1,Denon,AVR-S530BT 5.2-Channel A/V Receiver,229,4.7,Stereos
+683dc98cc029c78e3af4fdf3,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,369.99,2.1,Electronics
+683dc98cc029c78e3af4fdf4,Western Digital,WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX),53.99,8.7,Computers
+683dc98cc029c78e3af4fdf5,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,379.99,7.4,Electronics
+683dc98cc029c78e3af4fdf8,Dual,"Dual - 10 Single-Voice-Coil 4-Ohm Subwoofer with Enclosure - Black/Silver""",64.99,1.4,Electronics
+683dc98cc029c78e3af4fdf9,SanDisk,SanDisk - Ultra 500GB Internal SATA Solid State Drive for Laptops,166.49,9.2,Computers
+683dc98cc029c78e3af4fdfa,Pioneer,Pioneer - 8x External USB 3.0 Quad-Layer Blu-ray Disc DL DVD±RW/CD-RW Drive - Silver,74.99,9.8,Computers
+683dc98cc029c78e3af4fdfb,Sigma,Sigma - 35mm f/1.4 DG HSM Art Standard Lens for Canon - Black,899.99,8.6,Prime
+683dc98cc029c78e3af4fdfc,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",179.99,6.4,Electronics
+683dc98cc029c78e3af4fdfe,Pyle Pro,PP999 Phono Preamplifier,25.26,6.8,Audio
+683dc98cc029c78e3af4fdff,Elite Screens,"ELECTRIC100H Spectrum Motorized Projection Screen (49 x 87, 110V, 60Hz)",189.99,0.7,Office
+683dc98cc029c78e3af4fe00,Zoom,Zoom - H1 Handy Recorder - Black,99.99,0.9,Musical
+683dc98cc029c78e3af4fe01,SunBriteTV,Pro-Series 49-Class Full HD Outdoor LED TV (Silver),4295,6.8,LED
+683dc98cc029c78e3af4fe02,Power Acoustik,"Power Acoustik - Gothic Series 10 Dual-Voice-Coil 2-Ohm Subwoofer - Black""",85.8,1.9,Auto
+683dc98cc029c78e3af4fe03,Aluratek,Aluratek AIRMM03F Wi-Fi Internet Radio Streaming Pandora,69.99,4.6,Speaker
+683dc98cc029c78e3af4fe04,Yamaha,"Yamaha - 2.1-Channel Soundbar System with 6-1/2 Wireless Subwoofer and 200-Watt Digital Amplifier - Black""",279.95,2.5,Electronics
+683dc98cc029c78e3af4fe05,Netgear,Details About Netgear Powerline 1000 Mbps Wifi 802.11ac 1 Gigabit Port Plw1000100nas,119.99,9.9,Computers
+683dc98cc029c78e3af4fe06,Samsung,Details About Samsung Gear Iconx 2018 Edition Cordfree Fitness Earbuds Black (us Version),154.95,6,Headphones
+683dc98cc029c78e3af4fe07,Fusion Marine,"Fusion - 4 2-Way Marine Speakers with Polypropylene Cones (Pair) - White""",84.99,4.4,Sports
+683dc98cc029c78e3af4fe08,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,46.99,9.5,Auto
+683dc98cc029c78e3af4fe09,Alpine,"Alpine SPR-60 6-1/2 Coaxial 2-Way Type-R Speaker Set""",85.99,9.5,Electronics
+683dc98cc029c78e3af4fe0a,Grace Digital,EcoXGear Ecostone Bluetooth Speaker,107.99,9.5,Electronics
+683dc98cc029c78e3af4fe0b,Leef,Leef Liacmwk000e1 iAccess iOS microSD Card Reader,49.99,7.9,Electronics
+683dc98cc029c78e3af4fe0c,Samsung,Samsung - 850 PRO 512GB Internal SATA III Solid State Drive for Laptops,224.99,4.8,Internal
+683dc98cc029c78e3af4fe0d,Google,Google Daydream View - VR Headset (Slate),69.99,1,Video
+683dc98cc029c78e3af4fe0e,Logitech,Logitech - Harmony Home Hub - Black,88.99,7.8,Audio
+683dc98cc029c78e3af4fe0f,Yamaha,AVENTAGE RX-A1070 7.2-Channel Network A/V Receiver,1199.98,1.1,TV
+683dc98cc029c78e3af4fe10,Sennheiser,Sennheiser - Earbud Headphones - Black,799.99,0.2,Sennheiser
+683dc98cc029c78e3af4fe11,Yamaha,Yamaha WX-030BL MusicCast Wireless Speaker with Wi-Fi and Bluetooth (Black),249.99,1.4,Electronics
+683dc98cc029c78e3af4fe12,Lenovo,"Lenovo - 100S-14IBR 14 Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Navy blue""",179.8,0.6,Electronics
+683dc98cc029c78e3af4fe13,Epson,Epson PowerLite 740HD LCD Projector - 720p - HDTV - 16:10 V11H764020,399.99,0.6,Electronics
+683dc98cc029c78e3af4fe14,Sanus,Sanus - Speaker Stands (Pair) - Black,39.99,0.8,Kitchen
+683dc98cc029c78e3af4fe16,SunBriteTV,Pro-Series 49-Class Full HD Outdoor LED TV (Silver),4295.98,4.3,LED
+683dc98cc029c78e3af4fe18,Alpine,"Alpine - 6 x 9"" 2-Way Coaxial Car Speakers with Polypropylene Cones (Pair) - Black""",65.99,9.6,Auto
+683dc98cc029c78e3af4fe1a,Sony,Sony HTST9 Soundbar with Wireless Subwoofer Bluetooth and Google Cast,1498,7.9,Electronics
+683dc98cc029c78e3af4fe1b,Epson,Epson - Home Cinema 2045 LCD Projector - White,642.51,8.6,Office
+683dc98cc029c78e3af4fe1d,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",297.29,9.8,Auto
+683dc98cc029c78e3af4fe1f,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,37.57,7.8,Auto
+683dc98cc029c78e3af4fe20,Lowepro,"Lowepro Dashpoint AVC 1, Blue",16,3.6,Electronics
+683dc98cc029c78e3af4fe23,House of Marley,House of Marley Smile Jamaica In-Ear Earbuds,22.99,2.8,Headphones
+683dc98cc029c78e3af4fe24,Apple,128GB iPod touch (Space Gray) (6th Generation),338.99,7.8,MP3
+683dc98cc029c78e3af4fe25,Manfrotto,Lumimuse 6 On-Camera LED Light (Black),79.99,9.2,On
+683dc98cc029c78e3af4fe26,Antec,One System Cabinet,54.95,3.8,Computers
+683dc98cc029c78e3af4fe27,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,479.99,4.5,Auto
+683dc98cc029c78e3af4fe28,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,78.99,1.6,Auto
+683dc98cc029c78e3af4fe2a,Pioneer,Pioneer 200W 4x6 Inch 3 Way 4 Ohms Coaxial Car Audio Speakers Pair | TS-A4676R,45.74,4.1,Auto
+683dc98cc029c78e3af4fe2b,Optoma,Details About Optoma Hd142x Full Hd 10980p 3d Dlp Home Theater Projector,999,2.7,Office
+683dc98cc029c78e3af4fe2d,Planet Audio,"Planet Audio - 6.2 - Bluetooth - In-Dash DVD Receiver - Black""",89.14,4.8,Auto
+683dc98cc029c78e3af4fe2e,Bower,Energizer Nikon D5100/3100 Battery Grip,68.99,8.3,Electronics
+683dc98cc029c78e3af4fe2f,Joby,JOBY GorillaPod 3K Kit. Compact Tripod 3K Stand and Ballhead 3K for Compact Mirrorless Cameras or devices up to 3K (6.6lbs). Black/Charcoal.,63.93,9.6,Tripod
+683dc98cc029c78e3af4fe31,Power Acoustik,"Power Acoustik LP-3CSC License Plate with 2 Backup Sensors and CCD Camera, Chrome",293.38,0.6,Auto
+683dc98cc029c78e3af4fe32,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",328.99,7.2,Electronics
+683dc98cc029c78e3af4fe33,Innovative Technology,Details About Innovative Technology Itsbo358p Bluetooth Outdoor Rock Speaker Pair,79.99,1.4,Portable
+683dc98cc029c78e3af4fe34,Leef,Leef Liacmwk000e1 iAccess iOS microSD Card Reader,29.99,9.2,Electronics
+683dc98cc029c78e3af4fe36,Western Digital,WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX),53,7.3,Computers
+683dc98cc029c78e3af4fe37,Cobra Electronics,Cobra - Radar and Laser Detector,106.98,5.6,Auto
+683dc98cc029c78e3af4fe38,SANUS,Sanus WSS2-W1 White Sonos Speaker Stands,79.99,1.7,Furniture
+683dc98cc029c78e3af4fe39,Google,Google Daydream View - VR Headset (Slate),59,6.3,Video
+683dc98cc029c78e3af4fe3a,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,129.99,9.8,Computers
+683dc98cc029c78e3af4fe3b,Samsung,Samsung Galaxy Tab S3 Keyboard Cover,130,4.3,Computers
+683dc98cc029c78e3af4fe3c,Kenwood,Kenwood DDX9703S 6.95 Double-DIN In-Dash DVD Receiver with Bluetooth,339.99,1.2,Auto
+683dc98cc029c78e3af4fe3d,Western Digital,WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch Desktop Hard Drive (WD10EZEX),59.88,5.2,Computers
+683dc98cc029c78e3af4fe3e,SOL REPUBLIC,Amps Air Bluetooth Wireless Earbuds (Deep Blue),149.99,5.3,Headphones
+683dc98cc029c78e3af4fe3f,Sanus,Sanus - Speaker Stands (Pair) - Black,58.99,3.3,Kitchen
+683dc98cc029c78e3af4fe41,Samsung,Samsung EVO+ 256GB UHS-I microSDXC U3 Memory Card with Adapter (MB-MC256DA/AM),199.99,5.8,Micro
+683dc98cc029c78e3af4fe42,Onkyo,Onkyo TXNR757 7.2 Channel Wireless A/V Receiver w/ HDCP2.2/HDR DTS _ Bluetooth,503.99,6.3,Electronics
+683dc98cc029c78e3af4fe43,Logitech,Logitech - Harmony Home Hub - Black,64.98,1.8,Audio
+683dc98cc029c78e3af4fe44,LG,GP60NB50 8x Super-Multi Portable DVD Rewriter with M-DISC,59,0.3,Computers
+683dc98cc029c78e3af4fe45,Joby,JOBY GorillaPod 3K Kit. Compact Tripod 3K Stand and Ballhead 3K for Compact Mirrorless Cameras or devices up to 3K (6.6lbs). Black/Charcoal.,79.95,7.5,Tripod
+683dc98cc029c78e3af4fe46,Onkyo,Onkyo TX-NR555 7.2-Channel Network A/V Receiver,299.99,4.6,Electronics
+683dc98cc029c78e3af4fe47,Apple,128GB iPod touch (Gold) (6th Generation),295,1.4,MP3
+683dc98cc029c78e3af4fe48,Onkyo,Onkyo TX-NR555 7.2-Channel Network A/V Receiver,303.99,1.4,Electronics
+683dc98cc029c78e3af4fe49,Lenovo,"Lenovo Flex 4 1470 80SA0000US 2-in-1 - 14 HD Touch - Pentium 4405U 2.1Ghz - 4GB - 500GB""",349.99,1,Electronics
+683dc98cc029c78e3af4fe4b,Urban Armor Gear,Case for Microsoft Surface Pro and Pro 4 (Black),69.95,7.1,Computers
+683dc98cc029c78e3af4fe4c,iSimple,iSimple ISBC01 BluClik Bluetooth Remote Control with Steering Wheel and Dash Mounts,26.44,3,Auto
+683dc98cc029c78e3af4fe4d,Jvcm,JVC - In-Dash CD/DM Receiver - Built-in Bluetooth with Detachable Faceplate - Black,77.64,1.5,Auto
+683dc98cc029c78e3af4fe4e,Samsung,Samsung - 960 EVO 250GB Internal PCI Express 3.0 x4 (NVMe) Solid State Drive for Laptops,149.99,2.2,Computers
+684b45afbad7303c1b6cc436,SLR,Nikon Mirrorless SLR Z6III 24-120 Lens Kit Full Size,100,7.6,Camera
+684b517b93aadce2b3721c8c,Huawei,Huawei Watch 2 Bluetooth Sport Smart Watch - Black,169.99,9,Smart
+684b51e493aadce2b3721c91,Huawei,FIRE-BOLTT Invincible Plus Smartwatch with Bluetooth Calling,200.99,9,Smart
+684b52a093aadce2b3721c94,Huawei,Fitbit Versa 2 Special Edition,255.99,9,Smart
+684b52ef93aadce2b3721c97,Samsung,Samsung Galaxy Smartwatch,300.99,8.8,Smart
+684b533893aadce2b3721c9a,Samsung,Samsung - Galaxy Watch Smartwatch 42mm Stainless Steel - Midnight Blackh,250.99,8.8,Smart
+684b53b293aadce2b3721ca0,Samsung,Samsung Smart Watch Galaxy Watch Active2 HR GPS - Aqua Black,230.99,9,Smart
+684b541e93aadce2b3721ca3,Samsung,Samsung Smart Watch Galaxy Watch 6 Classic HR GPS - Silver,131.24,9,Smart
+684b544693aadce2b3721ca6,Samsung,Smart Watch Samsung Galaxy Watch Active2 Sm-r835u 40 mm HR GPS - Gold,136,9,Smart
+684b547093aadce2b3721ca9,Samsung,Samsung Smart Watch Galaxy Watch 6 HR GPS - Black,120.74,9,Smart
+684b54a093aadce2b3721cac,Samsung,Samsung Smart Watch Galaxy Watch 6 Classic HR GPS - Black,120.74,9,Smart
+684b55c193aadce2b3721cbc,JBL,JBL Tour One M2,120.74,9,Over-Ear
+684b55fb93aadce2b3721cc5,Bose,Bose QuietComfort Ultra Headphones,120.74,9,Over-Ear
+684b560393aadce2b3721cc8,Bose,Bose QuietComfort Ultra Headphones,150.74,9,Over-Ear
+684b563993aadce2b3721ccc,Soundcore,Soundcore Space One,100,8.5,Over-Ear
+684b56b793aadce2b3721cd6,Sony,Sony WH-1000XM5,348,7.5,Over-Ear
+684b571393aadce2b3721cdd,Sony,Sony MDR-7506,98,6.5,Over-Ear
+684b577493aadce2b3721ce6,Beats,Beats Studio Pro,349.99,9.5,Over-Ear
+684b57dc93aadce2b3721cf1,Beats,Beats - Studio Buds + True Wireless Noise Cancelling Earbuds - Black/Gold,99.99,8.5,Over-Ear
+684b583eee4f9686adbf6750,Beats,"Soundcore Space One Pro by Anker, Adaptive Active Noise Cancelling Headphones 60H Lossless Audio Ultra-Fast Charging Wireless",215.98,8.5,Over-Ear
+684b585bee4f9686adbf6754,Soundcore,"Soundcore Space One Pro by Anker, Adaptive Active Noise Cancelling Headphones 60H Lossless Audio Ultra-Fast Charging Wireless",215.98,8.5,Over-Ear
+684b58a9ee4f9686adbf675a,Soundcore,Soundcore - by Anker Space One True Wireless Noise Cancelling Over - the - Ear Headphones - Black,100,8.5,Over-Ear
+684b58cabdeb7ad365aef044,Soundcore,Soundcore - by Anker P30i True Wireless Noise Cancelling Earbuds - Black,40.99,8.5,Over-Ear
+684b5a53bdeb7ad365aef050,Soundcore,Honeywell RDWL313P Home 3 Series Wireless Doorbell,55,8.5,Doorbells
+684b5a97bdeb7ad365aef054,HoneyWall,Blink Video Doorbell,60,8.5,Doorbells
+684b5abebdeb7ad365aef057,HoneyWall,Ring Battery Doorbell with Ring Chime,125,8.5,Doorbells
+684b5addbdeb7ad365aef05a,HoneyWall,Eufy Security Dual Cam Video Doorbell,260,8.5,Doorbells
+684b5aecbdeb7ad365aef05d,Apple,iPhone 15 Plus,1000,8.8,iPhones
+684b5afbbdeb7ad365aef060,HoneyWall,Avantek Wireless Doorbell,35,5.5,Doorbells
+684b5b25bdeb7ad365aef063,HoneyWall,Honeywell Series 9 Wireless Doorbell,58,8.5,Doorbells
+684b5b5abdeb7ad365aef066,Apple,iPhone 16,1050.33,9.1,iPhones
+684b5b91bdeb7ad365aef069,canon,Canon EOS R50,500,8.5,Camera
+684b5b91bdeb7ad365aef06c,Apple,iPhone 13,750.55,7.8,iPhones
+684b5bb0bdeb7ad365aef06f,canon,Fujifilm X-T5,450,7.5,Camera
+684b5bc4bdeb7ad365aef072,Apple,iPhone 14 Pro Max,850,8.5,iPhones
+684b5bd6bdeb7ad365aef078,Canon,Canon EOS R6 Mark,450,9.5,Camera
+684b5c0f6fae5c345f1690e1,Canon,Fujifilm X-S20,650,9.5,Camera
+684b5c696fae5c345f1690e6,Fujifilm,Fujifilm X-S20,650,9.5,Camera
+684b5c8b6fae5c345f1690eb,Fujifilm,Fujifilm X-E4,200,5.5,Camera
+684b5cb56fae5c345f1690ee,Fujifilm,Fujifilm X-T5,650,9.5,Camera
+684b5ce76fae5c345f1690f1,Fujifilm,Fujifilm X-S20,450,8.5,Camera
+684b5d116fae5c345f1690f4,Canon,Canon EOS R10,450,8.5,Camera
+684b5d316fae5c345f1690f7,Canon,Canon EOS R6 Mark ||,1000,8.5,Camera
+684b5d5a6fae5c345f1690fa,Fujifilm,Fujifilm X-H2S,550,8.5,Camera
+684b5ecabdeb7ad365aef07e,Samsung,Samsung - Pro Plus 128 GB microSDXC Memory Card,24.99,8.5,Micro
+684b5ef3bdeb7ad365aef082,Nextbase,Nextbase - 32GB MicroSDHC UHS-III Memory Card for Dash Cams,14.99,7.5,Micro
+684b5efcbdeb7ad365aef085,Apple,iPhone 16 Pro Max,1250,9.5,iPhones
+684b5f1bbdeb7ad365aef088,Nextbase,Nextbase - 64GB U3 MicroSD Memory Card for Dash Cams,44.99,8.5,Micro
+684b5f49bdeb7ad365aef08c,Nextbase,Nextbase - 128GB U3 MicroSD Memory Card for Dash Cams,74.99,8.5,Micro
+684b5f64bdeb7ad365aef08f,Apple,Monochrome Waves Elite iPhone 15 Pro Max Case,20,8.2,iPhones
+684b5f7dbdeb7ad365aef092,SanDisk,SanDisk - Ultra PLUS 1TB microSDXC UHS-I Memory Card,145.99,8.5,Micro
+684b5fa5bdeb7ad365aef095,SanDisk,SanDisk - Ultra PLUS 64GB microSDXC UHS-I Memory Card,14.99,8.5,Micro
+684b5fb3bdeb7ad365aef098,Apple,iPhone 16 Plus Clear Armour MagSafe Case,30,8.5,iPhones
+684b5fd1bdeb7ad365aef09b,SanDisk,SanDisk - 1TB microSDXC UHS-I Memory Card for Nintendo Switch 1,174.99,8.5,Micro
+684b5fe4bdeb7ad365aef09e,Apple,"Nillkin for iPhone 16 Pro Max Case, Frosted Shield Pro Slim Protective Phone Case with Shockproof & Anti-Fingerprint Thin Slim Hard Cover for iPhone 16 Pro Max - Black",35,9.1,iPhones
+684b5ff8bdeb7ad365aef0a4,SanDisk,SanDisk - 512GB microSDXC UHS-I Memory Card for Nintendo Switch 1,64.99,8.5,Micro
+684b60286fae5c345f169115,SanDisk,SanDisk - 256GB microSDXC UHS-I Memory Card for Nintendo Switch 1,35.99,8.5,Micro
+684b604d6fae5c345f169119,Apple,iPhone 11,500,7.8,iPhones
+684b60536fae5c345f16911c,Samsung,Samsung - Pro Plus 512GB microSDXC Memory Card,55.99,8.5,Micro
+684b60716fae5c345f16911f,Samsung,Samsung - PRO Endurance 128GB microSDXC SD Memory Card,19.99,8.5,Micro
+684b609b6fae5c345f169122,Samsung,Samsung - PRO Endurance 256GB MicroSDXC Memory Card,29.99,8.5,Micro
+684b60ca6fae5c345f169125,Samsung,128GB Memory Cards,89.99,8.5,Micro
+684b60f16fae5c345f169128,Apple,20W USB-C Power Adapter White,200,8.5,iPhones
+684b614c6fae5c345f16912d,Apple,1m USB-C Charge Cable White,150,8.8,iPhones
+684b630d6fae5c345f16913e,JBL,GO 3 Portable Bluetooth Speaker Red,100,8.5,Stereos
+684b63556fae5c345f169141,JBL,JBL Partybox Ultimate Massive Party,1200,9.9,Stereos
+684b63b66fae5c345f169144,JBL,"JBL Boombox 3 Portable Speaker, Massive JBL Signature Pro Sound,",400,8.6,Stereos
+684b64116fae5c345f169147,JBL,"JBL Charge 5 Portable Speaker, Built-In Powerbank",200,9.5,Stereos
