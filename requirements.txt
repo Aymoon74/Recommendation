@@ -1,0 +1,7 @@
+flask==2.3.3
+  pandas==2.0.3
+  numpy==1.23.5
+  scikit-learn==1.2.2
+  scikit-surprise==1.1.1
+  joblib==1.2.0
+  gunicorn==22.0.0
